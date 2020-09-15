@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="77" total="89" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2213929" started-at="2020-03-31T13:16:01Z" finished-at="2020-03-31T13:52:55Z">
+    <groups>
+      <group name="States">
+        <method signature="CSR.NewLoanVeritec()[pri:89, instance:QCHome.CSR@77cd7a0]" name="NewLoanVeritec" class="QCHome.CSR"/>
+        <method signature="CSR.QC_KS_LOC_Txn()[pri:88, instance:QCHome.CSR@77cd7a0]" name="QC_KS_LOC_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_LA_PDL_Txn()[pri:79, instance:QCHome.CSR@77cd7a0]" name="QC_LA_PDL_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_MO_ILP_Txn()[pri:84, instance:QCHome.CSR@77cd7a0]" name="QC_MO_ILP_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_MO_PDL_Txn()[pri:81, instance:QCHome.CSR@77cd7a0]" name="QC_MO_PDL_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_MO_TLP_Txn()[pri:85, instance:QCHome.CSR@77cd7a0]" name="QC_MO_TLP_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_NE_PDL_Txn()[pri:78, instance:QCHome.CSR@77cd7a0]" name="QC_NE_PDL_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_NM_ILP_Txn()[pri:83, instance:QCHome.CSR@77cd7a0]" name="QC_NM_ILP_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_NM_TLP_Txn()[pri:86, instance:QCHome.CSR@77cd7a0]" name="QC_NM_TLP_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_NV_PDL_Txn()[pri:80, instance:QCHome.CSR@77cd7a0]" name="QC_NV_PDL_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_NV_TLP_Txn()[pri:87, instance:QCHome.CSR@77cd7a0]" name="QC_NV_TLP_Txn" class="QCHome.CSR"/>
+        <method signature="CSR.QC_WI_ILP_Txn()[pri:82, instance:QCHome.CSR@77cd7a0]" name="QC_WI_ILP_Txn" class="QCHome.CSR"/>
+      </group> <!-- States -->
+    </groups>
+    <test name="Test" duration-ms="2213929" started-at="2020-03-31T13:16:01Z" finished-at="2020-03-31T13:52:55Z">
+      <class name="QCHome.CSR">
+        <test-method status="PASS" signature="setup()[pri:0, instance:QCHome.CSR@77cd7a0]" name="setup" is-config="true" duration-ms="1704" started-at="2020-03-31T13:16:01Z" finished-at="2020-03-31T13:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="QC_NE_PDL_Txn()[pri:78, instance:QCHome.CSR@77cd7a0]" name="QC_NE_PDL_Txn" duration-ms="199890" started-at="2020-03-31T13:16:03Z" finished-at="2020-03-31T13:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_NE_PDL_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="171" started-at="2020-03-31T13:19:23Z" finished-at="2020-03-31T13:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:19:23Z" finished-at="2020-03-31T13:19:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_NE_PDL_Txn status=SUCCESS method=CSR.QC_NE_PDL_Txn()[pri:78, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="QC_LA_PDL_Txn()[pri:79, instance:QCHome.CSR@77cd7a0]" name="QC_LA_PDL_Txn" duration-ms="186628" started-at="2020-03-31T13:19:23Z" finished-at="2020-03-31T13:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_LA_PDL_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="31" started-at="2020-03-31T13:22:30Z" finished-at="2020-03-31T13:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="QC_NV_PDL_Txn()[pri:80, instance:QCHome.CSR@77cd7a0]" name="QC_NV_PDL_Txn" duration-ms="322867" started-at="2020-03-31T13:22:30Z" finished-at="2020-03-31T13:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_NV_PDL_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:22:30Z" finished-at="2020-03-31T13:22:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_LA_PDL_Txn status=SUCCESS method=CSR.QC_LA_PDL_Txn()[pri:79, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="31" started-at="2020-03-31T13:27:53Z" finished-at="2020-03-31T13:27:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:27:53Z" finished-at="2020-03-31T13:27:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_NV_PDL_Txn status=SUCCESS method=CSR.QC_NV_PDL_Txn()[pri:80, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="QC_MO_PDL_Txn()[pri:81, instance:QCHome.CSR@77cd7a0]" name="QC_MO_PDL_Txn" duration-ms="204647" started-at="2020-03-31T13:27:53Z" finished-at="2020-03-31T13:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_MO_PDL_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="31" started-at="2020-03-31T13:31:17Z" finished-at="2020-03-31T13:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:31:17Z" finished-at="2020-03-31T13:31:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_MO_PDL_Txn status=SUCCESS method=CSR.QC_MO_PDL_Txn()[pri:81, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="QC_WI_ILP_Txn()[pri:82, instance:QCHome.CSR@77cd7a0]" name="QC_WI_ILP_Txn" duration-ms="231394" started-at="2020-03-31T13:31:17Z" finished-at="2020-03-31T13:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_WI_ILP_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="15" started-at="2020-03-31T13:35:09Z" finished-at="2020-03-31T13:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="QC_NM_ILP_Txn()[pri:83, instance:QCHome.CSR@77cd7a0]" name="QC_NM_ILP_Txn" duration-ms="106785" started-at="2020-03-31T13:35:09Z" finished-at="2020-03-31T13:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_NM_ILP_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:35:09Z" finished-at="2020-03-31T13:35:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_WI_ILP_Txn status=SUCCESS method=CSR.QC_WI_ILP_Txn()[pri:82, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="16" started-at="2020-03-31T13:36:55Z" finished-at="2020-03-31T13:36:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:36:55Z" finished-at="2020-03-31T13:36:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_NM_ILP_Txn status=SUCCESS method=CSR.QC_NM_ILP_Txn()[pri:83, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="QC_MO_ILP_Txn()[pri:84, instance:QCHome.CSR@77cd7a0]" name="QC_MO_ILP_Txn" duration-ms="105285" started-at="2020-03-31T13:36:55Z" finished-at="2020-03-31T13:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_MO_ILP_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="16" started-at="2020-03-31T13:38:41Z" finished-at="2020-03-31T13:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="QC_MO_TLP_Txn()[pri:85, instance:QCHome.CSR@77cd7a0]" name="QC_MO_TLP_Txn" duration-ms="138663" started-at="2020-03-31T13:38:41Z" finished-at="2020-03-31T13:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_MO_TLP_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:38:41Z" finished-at="2020-03-31T13:38:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_MO_ILP_Txn status=SUCCESS method=CSR.QC_MO_ILP_Txn()[pri:84, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="31" started-at="2020-03-31T13:40:59Z" finished-at="2020-03-31T13:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="QC_NM_TLP_Txn()[pri:86, instance:QCHome.CSR@77cd7a0]" name="QC_NM_TLP_Txn" duration-ms="130127" started-at="2020-03-31T13:40:59Z" finished-at="2020-03-31T13:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_NM_TLP_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:40:59Z" finished-at="2020-03-31T13:40:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_MO_TLP_Txn status=SUCCESS method=CSR.QC_MO_TLP_Txn()[pri:85, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="31" started-at="2020-03-31T13:43:10Z" finished-at="2020-03-31T13:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:43:10Z" finished-at="2020-03-31T13:43:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_NM_TLP_Txn status=SUCCESS method=CSR.QC_NM_TLP_Txn()[pri:86, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="QC_NV_TLP_Txn()[pri:87, instance:QCHome.CSR@77cd7a0]" name="QC_NV_TLP_Txn" duration-ms="137510" started-at="2020-03-31T13:43:10Z" finished-at="2020-03-31T13:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_NV_TLP_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="16" started-at="2020-03-31T13:45:27Z" finished-at="2020-03-31T13:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:45:27Z" finished-at="2020-03-31T13:45:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_NV_TLP_Txn status=SUCCESS method=CSR.QC_NV_TLP_Txn()[pri:87, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="QC_KS_LOC_Txn()[pri:88, instance:QCHome.CSR@77cd7a0]" name="QC_KS_LOC_Txn" duration-ms="111668" started-at="2020-03-31T13:45:27Z" finished-at="2020-03-31T13:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_KS_LOC_Txn -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="16" started-at="2020-03-31T13:47:19Z" finished-at="2020-03-31T13:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="FAIL" signature="NewLoanVeritec()[pri:89, instance:QCHome.CSR@77cd7a0]" name="NewLoanVeritec" duration-ms="336091" started-at="2020-03-31T13:47:19Z" finished-at="2020-03-31T13:52:55Z">
+          <exception class="org.openqa.selenium.InvalidElementStateException">
+            <message>
+              <![CDATA[Element is not enabled (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'QTLSYS0-237', ip: '192.168.0.237', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:41031/, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: a3d8d4a2-9d85-4b14-8bb7-e1ade2c1ccb5]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.InvalidElementStateException: Element is not enabled (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'QTLSYS0-237', ip: '192.168.0.237', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {browserAttachTimeout: 0, browserName: internet explorer, cssSelectorsEnabled: true, elementScrollBehavior: 0, enableElementCacheCleanup: true, enablePersistentHover: true, handlesAlerts: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.forceCreateProcessApi: false, ie.usePerProcessProxy: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:41031/, javascriptEnabled: true, nativeEvents: true, platform: WINDOWS, platformName: WINDOWS, requireWindowFocus: false, takesScreenshot: true, unexpectedAlertBehaviour: dismiss, unhandledPromptBehavior: dismiss, version: 11}
+Session ID: a3d8d4a2-9d85-4b14-8bb7-e1ade2c1ccb5
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)
+at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:100)
+at QCHome.QC_PDL_NewLoanPage.PDL(QC_PDL_NewLoanPage.java:229)
+at QCHome.QC_PDL_NewLoanPage.newLoan(QC_PDL_NewLoanPage.java:163)
+at QCHome.CSR.NewLoanVeritec(CSR.java:1745)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.InvalidElementStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewLoanVeritec -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="0" started-at="2020-03-31T13:47:19Z" finished-at="2020-03-31T13:47:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_KS_LOC_Txn status=SUCCESS method=CSR.QC_KS_LOC_Txn()[pri:88, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:QCHome.CSR@77cd7a0]" name="endReport" is-config="true" duration-ms="16" started-at="2020-03-31T13:52:55Z" finished-at="2020-03-31T13:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:QCHome.CSR@77cd7a0]" name="getResult" is-config="true" duration-ms="234" started-at="2020-03-31T13:52:55Z" finished-at="2020-03-31T13:52:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=NewLoanVeritec status=FAILURE method=CSR.NewLoanVeritec()[pri:89, instance:QCHome.CSR@77cd7a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- QCHome.CSR -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+
+%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'org.apache.poi.EmptyFileException' which is a runtime exception.(¦ôØ’
+gsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Ş¾íŸşÿÿÿÿ
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(Ä‹ıÿÿÿÿ
+V
+squid:S1065";Replace this usage of System.out or System.err by a logger.(½²´Úşÿÿÿÿ
+V
+squid:S1067";Replace this usage of System.out or System.err by a logger.(ø’ËŒÿÿÿÿÿ
+Q
+squid:S106O";Replace this usage of System.out or System.err by a logger.(¢àóÄ
+Bsquid:S1481'"+Remove this unused "strURL" local variable.(ÿÇõ»
+Esquid:S1481)")Remove this unused "file" local variable.(â¹­°ùÿÿÿÿ
+Bsquid:S1481F"+Remove this unused "output" local variable.(ŠÓŸà
+Esquid:S1481 ")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ
+Lsquid:S1481""0Remove this unused "pdfStripper" local variable.(´œ Ûûÿÿÿÿ
+Ksquid:S1481%"/Remove this unused "parsedText" local variable.(™×ıÿÿÿÿ
+<squid:S1166="%Either log or rethrow this exception.(°òÒ¬
+<squid:S11666"%Either log or rethrow this exception.(ï­£Ä
+ksquid:UselessImportCheck
+"BRemove this unused import 'org.apache.pdfbox.io.RandomAccessRead'.(‹©ïÆûÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ
+osquid:UselessImportCheck"FRemove this unused import 'org.openqa.selenium.firefox.FirefoxDriver'.(Úª ÿÿÿÿÿ
+?squid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="7" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51824" started-at="2019-04-12T13:22:24Z" finished-at="2019-04-12T13:23:15Z">
+    <groups>
+      <group name="Brahmith1">
+        <method signature="QCStore.Reverse_and_Reallocation()[pri:2, instance:tests.QCStore@370736d9]" name="Reverse_and_Reallocation" class="tests.QCStore"/>
+      </group> <!-- Brahmith1 -->
+    </groups>
+    <test name="Test" duration-ms="51824" started-at="2019-04-12T13:22:24Z" finished-at="2019-04-12T13:23:15Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@370736d9]" name="setup" is-config="true" duration-ms="93" started-at="2019-04-12T13:22:24Z" finished-at="2019-04-12T13:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@370736d9]" name="killProcess" is-config="true" duration-ms="5027" started-at="2019-04-12T13:22:24Z" finished-at="2019-04-12T13:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="Reverse_and_Reallocation()[pri:2, instance:tests.QCStore@370736d9]" name="Reverse_and_Reallocation" duration-ms="46551" started-at="2019-04-12T13:22:29Z" finished-at="2019-04-12T13:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reverse_and_Reallocation -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@370736d9]" name="getResult" is-config="true" duration-ms="153" started-at="2019-04-12T13:23:15Z" finished-at="2019-04-12T13:23:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Reverse_and_Reallocation status=SUCCESS method=QCStore.Reverse_and_Reallocation()[pri:2, instance:tests.QCStore@370736d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@370736d9]" name="endReport" is-config="true" duration-ms="0" started-at="2019-04-12T13:23:15Z" finished-at="2019-04-12T13:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

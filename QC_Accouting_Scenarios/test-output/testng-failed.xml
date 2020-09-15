@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="Janaki"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.QCStore">
+        <methods>
+          <include name="getResult"/>
+          <include name="JQC_ILP_Newloan_ThreeDeposit_ThreeReturn_Default_NoCashOutRefinance_Txn"/>
+          <include name="setup"/>
+          <include name="JQC_TLP_DCDeposit_Decline_2ndDeposit_Decline_Default_Repo_Redeposit_Decline_Txn"/>
+          <include name="JQC_ILP_Newloan_ThreeDeposit_ThreeReturn_Default_YesCashOutRefinance_Txn"/>
+          <include name="killProcess"/>
+        </methods>
+      </class> <!-- tests.QCStore -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

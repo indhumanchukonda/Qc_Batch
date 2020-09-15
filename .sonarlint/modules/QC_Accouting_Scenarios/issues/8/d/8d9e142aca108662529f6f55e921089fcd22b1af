@@ -1,0 +1,157 @@
+
+–"squid:ClassVariableVisibilityCheck+"cMake loc_history_LateFee_Amt a static final constant or non-public and provide accessors if needed.(Š÷øÿÿÿÿ
+nsquid:S00117B"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+Qsquid:S1444'":Make this "public static loc_history_Tran_Amt" field final(˜ôÓŸ
+Œ"squid:ClassVariableVisibilityCheck"^Make ACH_effective_date a static final constant or non-public and provide accessors if needed.(÷ıÉ
+Usquid:S1444("9Make this "public static loc_history_Int_Amt" field final(İ›€£ıÿÿÿÿ
+ssquid:S3008"WRename this field "ACH_ABA_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†·Øûÿÿÿÿ
+Esquid:S1444".Make this "public static ACH_type" field final(İôø•
+‹"squid:ClassVariableVisibilityCheck"XMake ACH_ABA_code a static final constant or non-public and provide accessors if needed.(†·Øûÿÿÿÿ
+vsquid:S3008'"_Rename this field "loc_history_Tran_Amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ôÓŸ
+>squid:S1481K"'Remove this unused "df" local variable.(©Âìü
+Rsquid:S1854C";Remove this useless assignment to local variable "Partial".(¦âì‘
+@squid:S1148Ô"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+Wsquid:S14445";Make this "public static loc_history_Paid_Flag" field final(Î¸âØùÿÿÿÿ
+‚squid:S3008 "fRename this field "ach_history_ach_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øªîüÿÿÿÿÿ
+vsquid:S3008"ZRename this field "ACH_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÚ«ùıÿÿÿÿ
+}squid:S3008!"aRename this field "ach_history_ach_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¥Áıúÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"[Make ACH_transaction a static final constant or non-public and provide accessors if needed.(áÚ«ùıÿÿÿÿ
+Bsquid:S1166Ò"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Osquid:S1135Ó"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+]squid:S1444 "AMake this "public static ach_history_ach_transaction" field final(Øªîüÿÿÿÿÿ
+Jsquid:S1481<"3Remove this unused "sheetName_calc" local variable.(‰ÙÙ
+Msquid:S1444"6Make this "public static ACH_check_acc_no" field final(ñ£ƒÒ
+}squid:S3008#"gRename this field "ach_history_ach_check_acc_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìğ¥L
+`squid:S14444"IMake this "public static loc_history_Capitalization_Interest" field final(èÿÉ“
+"squid:ClassVariableVisibilityCheck,"`Make loc_history_Stmt_Nbr a static final constant or non-public and provide accessors if needed.(¢ıÒ´
+~squid:S1132œ"_Move the "Debit Card Return Posting" string literal on the left side of this string comparison.(­ÒÏò8–êÿÏÊ-
+Psquid:S1444""9Make this "public static ach_history_ach_amt" field final(†’–²
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ĞØ¾ê
+‚"squid:ClassVariableVisibilityCheck"TMake ACH_type a static final constant or non-public and provide accessors if needed.(İôø•
+›"squid:ClassVariableVisibilityCheck3"hMake loc_history_Payment_Due_Date a static final constant or non-public and provide accessors if needed.(¬ÂÜòıÿÿÿÿ
+wsquid:S1192¬"SDefine a constant instead of duplicating this literal "; == Actual value:" 3 times.(³ïñ¤ıÿÿÿÿ8ş¸£ËÊ-
+Xsquid:S1444#"BMake this "public static ach_history_ach_check_acc_no" field final(Ìğ¥L
+{squid:S3008*"_Rename this field "loc_history_Lien_Amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü§Üöûÿÿÿÿ
+qsquid:S3008"URename this field "ACH_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Û‚ûÿÿÿÿ
+qsquid:S3008"URename this field "ACH_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áß«•ıÿÿÿÿ
+‰"squid:ClassVariableVisibilityCheck"VMake ACH_status a static final constant or non-public and provide accessors if needed.(®Û‚ûÿÿÿÿ
+Msquid:S1854K"6Remove this useless assignment to local variable "df".(©Âìü
+–"squid:ClassVariableVisibilityCheck%"cMake loc_history_transaction a static final constant or non-public and provide accessors if needed.( ÛËûşÿÿÿÿ
+"squid:ClassVariableVisibilityCheck4"oMake loc_history_Capitalization_Interest a static final constant or non-public and provide accessors if needed.(èÿÉ“
+tsquid:S3008"]Rename this field "ACH_effective_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ıÉ
+Ysquid:S1854<"BRemove this useless assignment to local variable "sheetName_calc".(‰ÙÙ
+nsquid:S37767"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(å×º´úÿÿÿÿ
+nsquid:S00117<"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ÙÙ
+nsquid:S00117G"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÚÅ™
+Ysquid:S1444%"=Make this "public static loc_history_transaction" field final( ÛËûşÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+ssquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å×º´úÿÿÿÿ
+Wsquid:S14441"AMake this "public static loc_history_Min_Payment_Amt" field final(ş“£c
+ssquid:S00117H"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÑæüÿÿÿÿ
+usquid:S3008""^Rename this field "ach_history_ach_amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†’–²
+—"squid:ClassVariableVisibilityCheck$"dMake ach_history_ach_ABA_code a static final constant or non-public and provide accessors if needed.(æïûäıÿÿÿÿ
+Isquid:S11727"-Remove this unused method parameter "AppURL".(å×º´úÿÿÿÿ
+“"squid:ClassVariableVisibilityCheck"`Make ach_history_ach_type a static final constant or non-public and provide accessors if needed.(–à…ğûÿÿÿÿ
+~squid:S30080"gRename this field "loc_history_Previous_Balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Øğş
+…squid:S30084"nRename this field "loc_history_Capitalization_Interest" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÿÉ“
+`squid:S1444"DMake this "public static ach_history_ach_effective_date" field final(ÒÀÒçøÿÿÿÿ
+fsquid:S1192a"JDefine a constant instead of duplicating this literal "mainFrame" 4 times.(ËøÇªıÿÿÿÿ
+Csquid:S1481C",Remove this unused "Partial" local variable.(¦âì‘
+nsquid:S00117P"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì®Áì
+zsquid:S3008("^Rename this field "loc_history_Int_Amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ›€£ıÿÿÿÿ
+Xsquid:S1444!"<Make this "public static ach_history_ach_status" field final(é¥Áıúÿÿÿÿ
+Ysquid:S14442"=Make this "public static loc_history_New_Balance" field final(Š¹Ù¶ùÿÿÿÿ
+”"squid:ClassVariableVisibilityCheck5"aMake loc_history_Paid_Flag a static final constant or non-public and provide accessors if needed.(Î¸âØùÿÿÿÿ
+Wsquid:S1854H";Remove this useless assignment to local variable "StateID".(ŞÑæüÿÿÿÿ
+~squid:S30082"bRename this field "loc_history_New_Balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¹Ù¶ùÿÿÿÿ
+^squid:S14443"BMake this "public static loc_history_Payment_Due_Date" field final(¬ÂÜòıÿÿÿÿ
+Lsquid:S1444"0Make this "public static ACH_status" field final(®Û‚ûÿÿÿÿ
+Zsquid:S1444$">Make this "public static ach_history_ach_ABA_code" field final(æïûäıÿÿÿÿ
+jsquid:S3008"SRename this field "ACH_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İôø•
+“"squid:ClassVariableVisibilityCheck*"`Make loc_history_Lien_Amt a static final constant or non-public and provide accessors if needed.(ü§Üöûÿÿÿÿ
+Qsquid:S1444"5Make this "public static ACH_transaction" field final(áÚ«ùıÿÿÿÿ
+|squid:S30081"fRename this field "loc_history_Min_Payment_Amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş“£c
+ƒsquid:S30083"gRename this field "loc_history_Payment_Due_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÂÜòıÿÿÿÿ
+Osquid:S1444)"9Make this "public static loc_history_adv_Amt" field final(ÙÆ»n
+Ysquid:S1854–"5Remove this useless assignment to local variable "n".(ŠÄíøùÿÿÿÿ8›ºÏËÊ-
+vsquid:S00117š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶âûÛ8ÇòôÊÊ-
+Œ"squid:ClassVariableVisibilityCheck)"_Make loc_history_adv_Amt a static final constant or non-public and provide accessors if needed.(ÙÆ»n
+œ"squid:ClassVariableVisibilityCheck/"nMake loc_history_Statement_Closing_Date a static final constant or non-public and provide accessors if needed.(â‹‹¢
+Osquid:S1444"8Make this "public static ACH_effective_date" field final(÷ıÉ
+nsquid:S00117C"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦âì‘
+Ssquid:S1481="7Remove this unused "sheetName_new_loan" local variable.(­Ñ°áúÿÿÿÿ
+ssquid:S00117N"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+Nsquid:S1444"2Make this "public static ACH_ABA_code" field final(†·Øûÿÿÿÿ
+"squid:ClassVariableVisibilityCheck""_Make ach_history_ach_amt a static final constant or non-public and provide accessors if needed.(†’–²
+hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(£›„ûÿÿÿÿ
+Esquid:S1481P".Remove this unused "SSNverify" local variable.(Ì®Áì
+l
+squid:S134´"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ò‰¹¡8ş¸£ËÊ-
+{squid:S00117§"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëæ‡ıûÿÿÿÿ8ş¸£ËÊ-
+Ysquid:S14440"BMake this "public static loc_history_Previous_Balance" field final(÷Øğş
+Vsquid:S1444":Make this "public static ach_history_ach_type" field final(–à…ğûÿÿÿÿ
+}squid:S1192°"^Define a constant instead of duplicating this literal "; not equals to Actual value:" 3 times.(‘„û‰8ş¸£ËÊ-
+tsquid:S3008)"^Rename this field "loc_history_adv_Amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÆ»n
+l
+squid:S134ª"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(èöÄä8ÇòôÊÊ-
+…squid:S3008"iRename this field "ach_history_ach_effective_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÀÒçøÿÿÿÿ
+d
+squid:S134n"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+”"squid:ClassVariableVisibilityCheck1"gMake loc_history_Min_Payment_Amt a static final constant or non-public and provide accessors if needed.(ş“£c
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+|squid:S30085"`Rename this field "loc_history_Paid_Flag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¸âØùÿÿÿÿ
+Xsquid:S1444&"<Make this "public static loc_history_tendertype" field final(°¤ú…ùÿÿÿÿ
+bsquid:S1854="FRemove this useless assignment to local variable "sheetName_new_loan".(­Ñ°áúÿÿÿÿ
+–"squid:ClassVariableVisibilityCheck2"cMake loc_history_New_Balance a static final constant or non-public and provide accessors if needed.(Š¹Ù¶ùÿÿÿÿ
+ssquid:S001177"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å×º´úÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"\Make ACH_check_acc_no a static final constant or non-public and provide accessors if needed.(ñ£ƒÒ
+"squid:ClassVariableVisibilityCheck'"`Make loc_history_Tran_Amt a static final constant or non-public and provide accessors if needed.(˜ôÓŸ
+"squid:ClassVariableVisibilityCheck."aMake loc_history_Stmt_Date a static final constant or non-public and provide accessors if needed.(×½£š
+squid:S3008$"cRename this field "ach_history_ach_ABA_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïûäıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"jMake ach_history_ach_effective_date a static final constant or non-public and provide accessors if needed.(ÒÀÒçøÿÿÿÿ
+ssquid:S00117="VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ñ°áúÿÿÿÿ
+š"squid:ClassVariableVisibilityCheck "gMake ach_history_ach_transaction a static final constant or non-public and provide accessors if needed.(Øªîüÿÿÿÿÿ
+vsquid:S3008,"_Rename this field "loc_history_Stmt_Nbr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ıÒ´
+vsquid:S00117¦"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öƒ¢¨8×™üÊÊ-
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+Tsquid:S1854G"=Remove this useless assignment to local variable "ProductID".(óÚÅ™
+„squid:S3008/"mRename this field "loc_history_Statement_Closing_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â‹‹¢
+nsquid:S00117>"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÈó³
+{squid:S00117¨"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şĞóìûÿÿÿÿ8ş¸£ËÊ-
+{squid:S3008"_Rename this field "ach_history_ach_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–à…ğûÿÿÿÿ
+•"squid:ClassVariableVisibilityCheck#"hMake ach_history_ach_check_acc_no a static final constant or non-public and provide accessors if needed.(Ìğ¥L
+Lsquid:S1444"0Make this "public static ACH_amount" field final(áß«•ıÿÿÿÿ
+Jsquid:S1481–"&Remove this unused "n" local variable.(ŠÄíøùÿÿÿÿ8›ºÏËÊ-
+_squid:S1444/"HMake this "public static loc_history_Statement_Closing_Date" field final(â‹‹¢
+Tsquid:S1854P"=Remove this useless assignment to local variable "SSNverify".(Ì®Áì
+e
+squid:S134Œ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ºèû“
+rsquid:S3008"[Rename this field "ACH_check_acc_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ£ƒÒ
+isquid:S1132´"JMove the "0.00" string literal on the left side of this string comparison.(ò‰¹¡8ş¸£ËÊ-
+Esquid:S1481G".Remove this unused "ProductID" local variable.(óÚÅ™
+~squid:S3008%"bRename this field "loc_history_transaction" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÛËûşÿÿÿÿ
+Hsquid:S1481H",Remove this unused "StateID" local variable.(ŞÑæüÿÿÿÿ
+e
+squid:S134œ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(­ÒÏò
+hsquid:S1132½"JMove the "0.00" string literal on the left side of this string comparison.(´Ğ¯8ş¸£ËÊ-
+bsquid:S1132ª"JMove the "0.00" string literal on the left side of this string comparison.(èöÄä
+k
+squid:S134½"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(´Ğ¯8ş¸£ËÊ-
+‰"squid:ClassVariableVisibilityCheck"VMake ACH_amount a static final constant or non-public and provide accessors if needed.(áß«•ıÿÿÿÿ
+wsquid:S3008."`Rename this field "loc_history_Stmt_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½£š
+nsquid:S00117L"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+Qsquid:S1444,":Make this "public static loc_history_Stmt_Nbr" field final(¢ıÒ´
+}squid:S3008&"aRename this field "loc_history_tendertype" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¤ú…ùÿÿÿÿ
+Rsquid:S1444.";Make this "public static loc_history_Stmt_Date" field final(×½£š
+–"squid:ClassVariableVisibilityCheck0"hMake loc_history_Previous_Balance a static final constant or non-public and provide accessors if needed.(÷Øğş
+•"squid:ClassVariableVisibilityCheck!"bMake ach_history_ach_status a static final constant or non-public and provide accessors if needed.(é¥Áıúÿÿÿÿ
+•"squid:ClassVariableVisibilityCheck&"bMake loc_history_tendertype a static final constant or non-public and provide accessors if needed.(°¤ú…ùÿÿÿÿ
+d
+squid:S134x"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+Vsquid:S1444*":Make this "public static loc_history_Lien_Amt" field final(ü§Üöûÿÿÿÿ
+Ysquid:S1444+"=Make this "public static loc_history_LateFee_Amt" field final(Š÷øÿÿÿÿ
+’"squid:ClassVariableVisibilityCheck("_Make loc_history_Int_Amt a static final constant or non-public and provide accessors if needed.(İ›€£ıÿÿÿÿ
+~squid:S3008+"bRename this field "loc_history_LateFee_Amt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š÷øÿÿÿÿ
+ssquid:S00117M"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ

@@ -1,0 +1,31 @@
+
+q
+squid:S134º"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8õŸàï¹.
+Bsquid:S00108Á")Either remove or fill this block of code.(¬Ù¨Í
+jsquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(ØŠ‹ö8õŸàï¹.
+q
+squid:S134’"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Ö—¯“úÿÿÿÿ8õŸàï¹.
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8õŸàï¹.
+nsquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’éø­þÿÿÿÿ
+Dsquid:S1166Á"%Either log or rethrow this exception.(¬Ù¨Í8õŸàï¹.
+fsquid:S11929"JDefine a constant instead of duplicating this literal "mainFrame" 8 times.(ËøÇªýÿÿÿÿ
+†squid:S1192I"hDefine a constant instead of duplicating this literal "Count of Dollar Coins is entered as 500" 3 times.(¸ÅÞµ8õŸàï¹.
+]squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¿Œû#
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªÝ¾
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢ÞÔýÿÿÿÿ
+=squid:S1166‰"%Either log or rethrow this exception.(¬Ù¨Í
+xsquid:S1192L"ZDefine a constant instead of duplicating this literal "Entered the Password as: " 3 times.(œýÛ–8õŸàï¹.
+asquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(öÂ÷g
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Œû#
+gsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(‡Úž«üÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸáôÏüÿÿÿÿ
+ssquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ þÿÿÿÿ
+osquid:CommentedOutCodeLineÌ"<This block of commented-out lines of code should be removed.(Ò…·ñøÿÿÿÿ8õŸàï¹.
+Csquid:S1172"-Remove this unused method parameter "AppURL".(¿Œû#
+gsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ÚÄê‹øÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Œû#
+q
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8õŸàï¹.
+osquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¿Œû#8õŸàï¹.

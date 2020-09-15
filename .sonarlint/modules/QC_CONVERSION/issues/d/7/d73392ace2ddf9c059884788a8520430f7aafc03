@@ -1,0 +1,30 @@
+
+{squid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔØÑ°ıÿÿÿÿ8Ùè†Š£.
+ssquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+Tsquid:S1854"=Remove this useless assignment to local variable "ProductID".(œñ†í
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(Íçªïıÿÿÿÿ8Ùè†Š£.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+Isquid:S1172"-Remove this unused method parameter "AppURL".(³€ıÉıÿÿÿÿ
+vsquid:S00117‹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8Ùè†Š£.
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³€ıÉıÿÿÿÿ
+fsquid:S11925"JDefine a constant instead of duplicating this literal "mainFrame" 7 times.(ËøÇªıÿÿÿÿ
+gsquid:S1192,"IDefine a constant instead of duplicating this literal "topFrame" 3 times.(ğÁ¾”8Ùè†Š£.
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³€ıÉıÿÿÿÿ
+Qsquid:S1172ƒ"-Remove this unused method parameter "AppURL".(ÔØÑ°ıÿÿÿÿ8Ùè†Š£.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+usquid:S00117T"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÕşƒ8Ùè†Š£.
+vsquid:S00117Ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ñ˜8Ùè†Š£.
+{squid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åáéšüÿÿÿÿ8Ùè†Š£.
+{squid:S00117ƒ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔØÑ°ıÿÿÿÿ8Ùè†Š£.
+osquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(»ÖãÅıÿÿÿÿ8Ùè†Š£.
+msquid:S1192"JDefine a constant instead of duplicating this literal "ACHReturn" 4 times.(£„’áÿÿÿÿÿ8Ùè†Š£.
+osquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(›Ãû¶ÿÿÿÿÿ8Ùè†Š£.
+ssquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åáéšüÿÿÿÿ
+usquid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)8Ùè†Š£.
+osquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(Á£Á‡ûÿÿÿÿ8Ùè†Š£.
+Esquid:S1481".Remove this unused "ProductID" local variable.(œñ†í
+ssquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔØÑ°ıÿÿÿÿ8Ùè†Š£.
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³€ıÉıÿÿÿÿ

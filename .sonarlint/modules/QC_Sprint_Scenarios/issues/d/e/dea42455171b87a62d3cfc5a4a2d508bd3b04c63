@@ -1,0 +1,14 @@
+
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(÷‡Õø
+@squid:S1481")Remove this unused "wait" local variable.(¿éÉß
+Isquid:S1172"-Remove this unused method parameter "AppURL".(‘®öòùÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‘®öòùÿÿÿÿ
+Osquid:S1854"8Remove this useless assignment to local variable "wait".(¿éÉß
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘®öòùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘®öòùÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€û±
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Éü—ÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ”‰Êÿÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Àè/

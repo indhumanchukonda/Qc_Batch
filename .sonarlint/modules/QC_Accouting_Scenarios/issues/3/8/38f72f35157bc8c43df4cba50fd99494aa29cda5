@@ -1,0 +1,150 @@
+
+bsquid:S2583ã"CChange this condition so that it does not always evaluate to "true"(±”Ìï8½ÁãÛÆ-
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ÚÃÍÙúÿÿÿÿ8Õ¦óª¤.
+Dsquid:S1166í"%Either log or rethrow this exception.(”ı¾8½ÁãÛÆ-
+Gsquid:S1148ô"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ8½ÁãÛÆ-
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+6squid:S2095Ï"Close this "ResultSet".(¿ûñ8½ÁãÛÆ-
+~squid:S1192 "`Define a constant instead of duplicating this literal "oracle.jdbc.driver.OracleDriver" 3 times.(ùíÄé8›š¡öÈ-
+bsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(²ÈÊ±
+osquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(í”¸‰ùÿÿÿÿ8ÁË­‰†.
+ˆsquid:S1192J"eDefine a constant instead of duplicating this literal "Executing the query with loan number" 3 times.(¼¾Äøÿÿÿÿ8‚ØÔÉÊ-
+k
+squid:S134`"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Œ°ÔÆ8½ÁãÛÆ-
+Qsquid:S1141z"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+squid:S1160•"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ğÒâ…8½ÁãÛÆ-
+bsquid:S2583Ü"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî8½ÁãÛÆ-
+Ysquid:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8›š¡öÈ-
+Ysquid:S1141ä"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8½ÁãÛÆ-
+:squid:S2095P"Close this "ResultSet".(Æ«Ø®øÿÿÿÿ8½ÁãÛÆ-
+]squid:S2259C"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹8›š¡öÈ-
+Xsquid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊğ
+6squid:S2095Í"Close this "ResultSet".(¦âû¸8çøšÈÊ-
+osquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(­íÑıÿÿÿÿ8şºôã¢.
+]
+squid:S106i";Replace this usage of System.out or System.err by a logger.(À·¹³şÿÿÿÿ8›š¡öÈ-
+Dsquid:S1166…"%Either log or rethrow this exception.(”ı¾8½ÁãÛÆ-
+nsquid:S00100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°×Àê8›š¡öÈ-
+Vsquid:S1313³"2Make this IP "192.168.2.241" address configurable.(€½¶ùÿÿÿÿ8şºôã¢.
+†squid:S1192K"iDefine a constant instead of duplicating this literal "Updating the CC_info_key to 123456789126" 3 times.(óè¤-8‚ØÔÉÊ-
+Wsquid:S1854š"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡8½ÁãÛÆ-
+Dsquid:S1166Š"%Either log or rethrow this exception.(”ı¾8›š¡öÈ-
+jsquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(ò‹Ÿå8Åëè©È-
+Isquid:S00108…")Either remove or fill this block of code.(”ı¾8›š¡öÈ-
+Bsquid:S00108Š")Either remove or fill this block of code.(”ı¾
+^
+squid:S106‹";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ8çÜÕÆ-
+Rsquid:S1481Ÿ".Remove this unused "rowValues" local variable.(ŞÎ¤ıÿÿÿÿ8ü²ÉÊ-
+vsquid:S00117È"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò³Ò8½ÁãÛÆ-
+^
+squid:S106";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ8½ÁãÛÆ-
+isquid:S1132`"KMove the "ERROR" string literal on the left side of this string comparison.(Œ°ÔÆ8½ÁãÛÆ-
+~squid:S1192b"`Define a constant instead of duplicating this literal "Value of Response_code is ERROR" 4 times.(ÀÎ‰œ8½ÁãÛÆ-
+osquid:CommentedOutCodeLine²"<This block of commented-out lines of code should be removed.(«ËÎ“ùÿÿÿÿ8Ñ Ä°.
+jsquid:S1132â"KMove the "ERROR" string literal on the left side of this string comparison.(Œ°ÔÆ8çÜÕÆ-
+Ysquid:S1141ë"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8½ÁãÛÆ-
+osquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(ÚÃÍÙúÿÿÿÿ8Õ¦óª¤.
+Rsquid:S1141İ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Gsquid:S1148Œ"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ8½ÁãÛÆ-
+Ysquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8›š¡öÈ-
+nsquid:S00117F"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ò³Ò
+5squid:S2095×"Close this "ResultSet".(øş48êüŸÍÊ-
+^squid:S2259Å"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹8½ÁãÛÆ-
+@squid:S1148‘"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+qsquid:S3776•"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ğÒâ…8½ÁãÛÆ-
+msquid:S1192"IDefine a constant instead of duplicating this literal " console" 3 times.(à×³µşÿÿÿÿ8›š¡öÈ-
+=squid:S1166ş"%Either log or rethrow this exception.(”ı¾
+5squid:S2095C"Close this "Statement".(Êë‹8½ÁãÛÆ-
+;squid:S2095Æ"Close this "Statement".(Ùıôºøÿÿÿÿ8½ÁãÛÆ-
+Y
+squid:S106½";Replace this usage of System.out or System.err by a logger.(£„ä«8½ÁãÛÆ-
+bsquid:S2583‚"CChange this condition so that it does not always evaluate to "true"(¡ææú8½ÁãÛÆ-
+Dsquid:S1166ß"%Either log or rethrow this exception.(”ı¾8›š¡öÈ-
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(­íÑıÿÿÿÿ8şºôã¢.
+isquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ûÜë 8ÃÛ¢ÍÊ-
+Ysquid:S1141ƒ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8›š¡öÈ-
+Rsquid:S1141ü"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+6squid:S2095Ë"Close this "ResultSet".(‚ö¶ú8½ÁãÛÆ-
+@squid:S1148¾"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+]squid:S1854—"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ8›š¡öÈ-
+=squid:S1166æ"%Either log or rethrow this exception.(”ı¾
+osquid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(ÚÃÍÙúÿÿÿÿ8Õ¦óª¤.
+Ysquid:S1141õ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8½ÁãÛÆ-
+†squid:S1192>"hDefine a constant instead of duplicating this literal "Connection Failed! Check output console" 3 times.(£„ä«8›š¡öÈ-
+Fsquid:S1148?"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8›š¡öÈ-
+asquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ8«ŒúÇÊ-
+W
+squid:S106ë";Replace this usage of System.out or System.err by a logger.(À·¹³şÿÿÿÿ
+Wsquid:S2259Â"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+nsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(Îá–åşÿÿÿÿ8·Ş’ÛÆ-
+Hsquid:S00108|")Either remove or fill this block of code.(”ı¾8›š¡öÈ-
+jsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(Î½•8é¿ä¢.
+bsquid:S2583ê"CChange this condition so that it does not always evaluate to "true"(¡ææú8«ŒúÇÊ-
+squid:S1160‘"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(°×Àê8›š¡öÈ-
+Isquid:S00108æ")Either remove or fill this block of code.(”ı¾8½ÁãÛÆ-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ªÄ»ı8çÜÕÆ-
+X
+squid:S106>";Replace this usage of System.out or System.err by a logger.(£„ä«8ÃÿÅÈÊ-
+osquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(«ËÎ“ùÿÿÿÿ8Ñ Ä°.
+[squid:S2583€"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+–squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ªÄ»ı
+jsquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(Î½•8é¿ä¢.
+;squid:S2095Ò"Close this "ResultSet".(Æ«Ø®øÿÿÿÿ8çÜÕÆ-
+Usquid:S1313."2Make this IP "192.168.2.241" address configurable.(€½¶ùÿÿÿÿ8şºôã¢.
+R
+squid:S106À";Replace this usage of System.out or System.err by a logger.(£„ä«
+Bsquid:S00108í")Either remove or fill this block of code.(”ı¾
+6squid:S2095Å"Close this "Statement".(Êë‹8‚ØÔÉÊ-
+bsquid:S2583ô"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî8«ŒúÇÊ-
+psquid:S1192/"RDefine a constant instead of duplicating this literal "Connecting to DB " 3 times.(òø¡Ò8›š¡öÈ-
+Zsquid:S2583y"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+Isquid:S00108ş")Either remove or fill this block of code.(”ı¾8½ÁãÛÆ-
+nsquid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒâ…8½ÁãÛÆ-
+~squid:S1192i"[Define a constant instead of duplicating this literal "Value of Response_code is " 4 times.(À·¹³şÿÿÿÿ8½ÁãÛÆ-
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ØØˆíøÿÿÿÿ8é¿ä¢.
+Isquid:S00108ß")Either remove or fill this block of code.(”ı¾8½ÁãÛÆ-
+5squid:S2095I"Close this "ResultSet".(Ä©ãÌ8Ù¡Ø×Æ-
+nsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(­íÑıÿÿÿÿ8şºôã¢.
+osquid:S2077Ï"P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ8Ù¡Ø×Æ-
+4squid:S2095Ã"Close this "Statement".(Ùıôºøÿÿÿÿ
+’squid:S1192."oDefine a constant instead of duplicating this literal "jdbc:oracle:thin:@192.168.2.241:1521:QFUNDUAT1" 3 times.(€½¶ùÿÿÿÿ8şºôã¢.
+jsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(²ÈÊ±8›š¡öÈ-
+X
+squid:S106b";Replace this usage of System.out or System.err by a logger.(ÀÎ‰œ8½ÁãÛÆ-
+<squid:S1166|"%Either log or rethrow this exception.(”ı¾
+Isquid:S00108ƒ")Either remove or fill this block of code.(”ı¾8›š¡öÈ-
+Bsquid:S00108÷")Either remove or fill this block of code.(”ı¾
+Wsquid:S1854–"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡8›š¡öÈ-
+osquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(ÔíÀúÿÿÿÿ8şºôã¢.
+Y
+squid:S106ä";Replace this usage of System.out or System.err by a logger.(ÀÎ‰œ8çÜÕÆ-
+bsquid:S2583û"CChange this condition so that it does not always evaluate to "true"(±”Ìï8«ŒúÇÊ-
+6squid:S2095Â"Close this "Statement".(Êë‹8›š¡öÈ-
+asquid:S1854Ÿ"=Remove this useless assignment to local variable "rowValues".(ŞÎ¤ıÿÿÿÿ8ü²ÉÊ-
+^
+squid:S106ó";Replace this usage of System.out or System.err by a logger.(à×³µşÿÿÿÿ8½ÁãÛÆ-
+Usquid:S1854"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ
+l
+squid:S134â"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(Œ°ÔÆ8çÜÕÆ-
+;squid:S2095."Close this "Connection".(€½¶ùÿÿÿÿ8¢Ş¿²¹.
+Dsquid:S1166ƒ"%Either log or rethrow this exception.(”ı¾8›š¡öÈ-
+[squid:S2583‡"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+]squid:S1854›"9Remove this useless assignment to local variable "stmt2".(îĞ«˜ùÿÿÿÿ8½ÁãÛÆ-
+osquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(ÿëºÂüÿÿÿÿ8ÃÛ¢ÍÊ-
+Dsquid:S1166÷"%Either log or rethrow this exception.(”ı¾8½ÁãÛÆ-
+3squid:S2095D"Close this "Statement".(Ùıôºøÿÿÿÿ
+;squid:S2095É"Close this "ResultSet".(†İ¸°øÿÿÿÿ8‚ØÔÉÊ-
+Gsquid:S1148Á"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8›š¡öÈ-
+asquid:S1854 "=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ8½ÁãÛÆ-
+Vsquid:S1313·"2Make this IP "192.168.2.241" address configurable.(€½¶ùÿÿÿÿ8şºôã¢.
+`squid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ8çÜÕÆ-
+jsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(²ÈÊ±8½ÁãÛÆ-
+5squid:S2095M"Close this "ResultSet".(¿ûñ8Ù¡Ø×Æ-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÄ»ı8½ÁãÛÆ-
+nsquid:S2077M"P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ8½ÁãÛÆ-
+{squid:S1192."XDefine a constant instead of duplicating this literal "QCH_WILDFLYAUTO_JUL1220" 3 times.(€½¶ùÿÿÿÿ8–×ŞöÄ.
+zsquid:S1192."WDefine a constant instead of duplicating this literal " QCHWilDflYaUtOjul1220" 3 times.(€½¶ùÿÿÿÿ8–×ŞöÄ.
+<squid:S2095·"Close this "Connection".(€½¶ùÿÿÿÿ8–×ŞöÄ.
+<squid:S2095³"Close this "Connection".(€½¶ùÿÿÿÿ8–×ŞöÄ.
+jsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(™üÖ8–×ŞöÄ.

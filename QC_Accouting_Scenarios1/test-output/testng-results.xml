@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="188751" started-at="2019-09-25T11:23:10Z" finished-at="2019-09-25T11:26:18Z">
+    <groups>
+      <group name="Janaki">
+        <method signature="QCStore.JQC_ILP_Newloan_Deposit_Return_Deposit_Txn()[pri:13, instance:tests.QCStore@3632be31]" name="JQC_ILP_Newloan_Deposit_Return_Deposit_Txn" class="tests.QCStore"/>
+      </group> <!-- Janaki -->
+    </groups>
+    <test name="Default test" duration-ms="188751" started-at="2019-09-25T11:23:10Z" finished-at="2019-09-25T11:26:18Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@3632be31]" name="setup" is-config="true" duration-ms="90" started-at="2019-09-25T11:23:10Z" finished-at="2019-09-25T11:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@3632be31]" name="killProcess" is-config="true" duration-ms="5010" started-at="2019-09-25T11:23:10Z" finished-at="2019-09-25T11:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_ILP_Newloan_Deposit_Return_Deposit_Txn()[pri:13, instance:tests.QCStore@3632be31]" name="JQC_ILP_Newloan_Deposit_Return_Deposit_Txn" duration-ms="183450" started-at="2019-09-25T11:23:15Z" finished-at="2019-09-25T11:26:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_ILP_Newloan_Deposit_Return_Deposit_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@3632be31]" name="getResult" is-config="true" duration-ms="187" started-at="2019-09-25T11:26:18Z" finished-at="2019-09-25T11:26:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_ILP_Newloan_Deposit_Return_Deposit_Txn status=SUCCESS method=QCStore.JQC_ILP_Newloan_Deposit_Return_Deposit_Txn()[pri:13, instance:tests.QCStore@3632be31] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

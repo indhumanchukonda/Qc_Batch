@@ -1,0 +1,57 @@
+
+nsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(Š§´Çøÿÿÿÿ8”â°ÁÖ-
+@squid:S1148£"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Psquid:S1197ç"8Move the array designator from the variable to the type.(±èºÚ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‘õìùÿÿÿÿ
+Zsquid:UselessImportCheck
+"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èþÛÑ
+W
+squid:S106è";Replace this usage of System.out or System.err by a logger.(þß˜‚ûÿÿÿÿ
+isquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ó˜ˆ³8ªÖÕÏ°.
+osquid:S00117ê"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í­Ì°
+lsquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+hsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(¦œüóûÿÿÿÿ
+fsquid:S1132¦"IMove the "ACH" string literal on the left side of this string comparison.(øàƒçùÿÿÿÿ
+nsquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+wsquid:UselessImportCheck"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ
+Tsquid:S18545"=Remove this useless assignment to local variable "ProductID".(œñ†í
+nsquid:S00117z"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÃ™ì
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+Isquid:S1172"-Remove this unused method parameter "AppURL".(²‘õìùÿÿÿÿ
+csquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(¢ýú
+hsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(œÈ¯ñþÿÿÿÿ
+msquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Õ›)
+osquid:S00117í"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¾Ï†
+nsquid:S001173"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íô²Ž
+^squid:UselessImportCheck":Remove this unused import 'org.openqa.selenium.Dimension'.(ôûÑö
+W
+squid:S106ë";Replace this usage of System.out or System.err by a logger.(Œ…ëÀùÿÿÿÿ
+osquid:S00117ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½÷ÈÃ
+osquid:S00117ç"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±èºÚ
+R
+squid:S106‚";Replace this usage of System.out or System.err by a logger.(ª‹ñÿ
+nsquid:S00117€"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò©¯B
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·™½Âùÿÿÿÿ
+nsquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+bsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(Ô³üí
+Osquid:S1135¢"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ÞÁÝÌ
+‡squid:S1192z"pDefine a constant instead of duplicating this literal "/html/body/table/tbody/tr/td/table[2]/tbody/tr[" 3 times.(ÎÃ™ì
+Bsquid:S1166¡"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+i
+squid:S134."NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¹‘éŽÿÿÿÿÿ
+Esquid:S14815".Remove this unused "ProductID" local variable.(œñ†í
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(²‘õìùÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‘õìùÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+nsquid:S00117ì"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‰•t
+fsquid:S1192A"JDefine a constant instead of duplicating this literal "mainFrame" 8 times.(ËøÇªýÿÿÿÿ
+ssquid:S001174"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º÷»éþÿÿÿÿ
+gsquid:S1132="KMove the "CHECK" string literal on the left side of this string comparison.(‹ÞÙ¼úÿÿÿÿ
+t
+squid:S135""YReduce the total number of break and continue statements in this loop to use at most one.(˜³õäøÿÿÿÿ
+csquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(¡¸àþ

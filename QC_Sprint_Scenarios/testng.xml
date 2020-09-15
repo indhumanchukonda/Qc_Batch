@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <groups>
+  <run>
+
+  <!--  Indhu Sprint scenarios   -->  
+   <!--    <include name="QF-342"/> -->  
+     <!--   <include name="QF-3421"/> -->
+ <!--     <include name="REQ_TLP_601"/>  -->
+  <!--     <include name="QF_369"/> -->  
+    <!--   <include name="REQ_LOC_884"/>   -->
+     
+      <!-- <include name="REQ_918_B20_403"/> --> 
+      <include name="REQ_918_B20_404"/>
+     <!--    <include name="REQ_918_B20_40512"/> -->
+  
+
+  </run>
+  </groups>
+  
+  
+    <classes>
+      <class name="tests.QCStore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+

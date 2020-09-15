@@ -1,0 +1,28 @@
+
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(≤øπ›
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(√ñ“ç
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿƒ≈¿
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õáèÌ
+isquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(„˚ç≈8À–ÖÇ∑.
+ssquid:S00117D"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å˚‚·˙ˇˇˇˇ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(õáèÌ
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(§—˘ˆˇˇˇˇˇ8¸ùˇ∂.
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õáèÌ
+bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(Ä∫—ˇ
+bsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(Ä∫—ˇ
+jsquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Í÷ÂÄ¯ˇˇˇˇ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¯˙«˝ˇˇˇˇ
+Osquid:S1854"8Remove this useless assignment to local variable "ESSN".(ÿƒ≈¿
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(õáèÌ
+gsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(ñÈ¶§¯ˇˇˇˇ
+\squid:S1192="FDefine a constant instead of duplicating this literal "value" 6 times.(≥√æN
+ssquid:S00117P"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í ø÷˚ˇˇˇˇ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∂œÒ©
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õáèÌ
+@squid:S1481")Remove this unused "ESSN" local variable.(ÿƒ≈¿
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(ñÈ¶§¯ˇˇˇˇ
+bsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(˙¢á•
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(˙¢á•
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸∂ÑŒ˛ˇˇˇˇ

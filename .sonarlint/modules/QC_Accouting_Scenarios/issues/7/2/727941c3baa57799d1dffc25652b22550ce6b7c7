@@ -1,0 +1,12 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üÒçÖşÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈĞt
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(™Æ·Šøÿÿÿÿ8×œ°ÏÊ-
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈĞt
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Rsquid:S1481"6Remove this unused "RepresentmentType" local variable.(‰Ùìàûÿÿÿÿ
+asquid:S1854"ERemove this useless assignment to local variable "RepresentmentType".(‰Ùìàûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ùìàûÿÿÿÿ
+Csquid:S1172"-Remove this unused method parameter "AppURL".(ÈĞt
+isquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.( í­8Ä”ºô.
+nsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(Ò…·ñøÿÿÿÿ8Ä”ºô.

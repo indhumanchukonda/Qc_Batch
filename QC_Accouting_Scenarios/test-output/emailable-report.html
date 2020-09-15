@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">Suite</th></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">13</td><td class="num">0</td><td class="num attn">3</td><td class="num">14,378,221</td><td>Janaki</td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="3">tests.QCStore</td><td><a href="#m0">JQC_ILP_Newloan_ThreeDeposit_ThreeReturn_Default_NoCashOutRefinance_Txn</a></td><td rowspan="1">1599743860423</td><td rowspan="1">1259856</td></tr><tr class="failedeven"><td><a href="#m1">JQC_ILP_Newloan_ThreeDeposit_ThreeReturn_Default_YesCashOutRefinance_Txn</a></td><td rowspan="1">1599745126132</td><td rowspan="1">1346186</td></tr><tr class="failedeven"><td><a href="#m2">JQC_TLP_DCDeposit_Decline_2ndDeposit_Decline_Default_Repo_Redeposit_Decline_Txn</a></td><td rowspan="1">1599735763003</td><td rowspan="1">970153</td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="13">tests.QCStore</td><td><a href="#m3">JQC_ILP_Deposit_Return_OtherPayment_Txn</a></td><td rowspan="1">1599732100039</td><td rowspan="1">652709</td></tr><tr class="passedeven"><td><a href="#m4">JQC_ILP_Newloan_Deposit_Return_Deposit_Deposit_Txn</a></td><td rowspan="1">1599742819036</td><td rowspan="1">1036337</td></tr><tr class="passedeven"><td><a href="#m5">JQC_ILP_Newloan_Deposit_Return_Deposit_Txn</a></td><td rowspan="1">1599741832426</td><td rowspan="1">981555</td></tr><tr class="passedeven"><td><a href="#m6">JQC_LOC_SignatureLoan_Run2Statements_Default_PartialWaiveFee_Txn</a></td><td rowspan="1">1599734201771</td><td rowspan="1">798879</td></tr><tr class="passedeven"><td><a href="#m7">JQC_LOC_SignatureLoan_Run2Statements_Default_WaiveFee_Txn</a></td><td rowspan="1">1599735005705</td><td rowspan="1">752248</td></tr><tr class="passedeven"><td><a href="#m8">JQC_LOC_SignatureLoan_Run2Statements_PartialWaiveFee_Txn</a></td><td rowspan="1">1599733520852</td><td rowspan="1">675864</td></tr><tr class="passedeven"><td><a href="#m9">JQC_LOC_SignatureLoan_Run2Statements_WaiveFee_Txn</a></td><td rowspan="1">1599732757985</td><td rowspan="1">757803</td></tr><tr class="passedeven"><td><a href="#m10">JQC_TXMPDLACH_Newloan_Deposit2_5instand6_Txn</a></td><td rowspan="1">1599739387797</td><td rowspan="1">1233866</td></tr><tr class="passedeven"><td><a href="#m11">JQC_TXMPDLDC_Newloan_Deposit2_5instand6_Txn</a></td><td rowspan="1">1599740626709</td><td rowspan="1">1200665</td></tr><tr class="passedeven"><td><a href="#m12">JQC_TXMPDL_Newloan_Greaterthan_CSOFee_Duedate_1stInstPayment_Gracedays_2ndInstalPayment_Txn</a></td><td rowspan="1">1599738623475</td><td rowspan="1">759287</td></tr><tr class="passedeven"><td><a href="#m13">JQC_TXMPDL_Newloan_Greaterthan_CSOFee_Gracedays_Payment_Txn</a></td><td rowspan="1">1599737965926</td><td rowspan="1">652431</td></tr><tr class="passedeven"><td><a href="#m14">JQC_TXMPDL_Newloan_Lessthan_CSOFee_Duedate_Payment_Txn</a></td><td rowspan="1">1599737440983</td><td rowspan="1">519906</td></tr><tr class="passedeven"><td><a href="#m15">JQC_TXMPDL_Newloan_Lessthan_CSOFee_Gracedays_Payment_Txn</a></td><td rowspan="1">1599736738995</td><td rowspan="1">696941</td></tr></tbody>
+</table>
+<h2>Test</h2><h3 id="m0">tests.QCStore#JQC_ILP_Newloan_ThreeDeposit_ThreeReturn_Default_NoCashOutRefinance_Txn</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at tests.LegalGarnishment.lAndG(LegalGarnishment.java:193)
+	at tests.QCStore.JQC_ILP_Newloan_ThreeDeposit_ThreeReturn_Default_NoCashOutRefinance_Txn(QCStore.java:1248)
+... Removed 25 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">tests.QCStore#JQC_ILP_Newloan_ThreeDeposit_ThreeReturn_Default_YesCashOutRefinance_Txn</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at tests.LegalGarnishment.lAndG(LegalGarnishment.java:193)
+	at tests.QCStore.JQC_ILP_Newloan_ThreeDeposit_ThreeReturn_Default_YesCashOutRefinance_Txn(QCStore.java:1378)
+... Removed 25 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">tests.QCStore#JQC_TLP_DCDeposit_Decline_2ndDeposit_Decline_Default_Repo_Redeposit_Decline_Txn</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.NullPointerException: null value in entry: url=null
+	at com.google.common.collect.CollectPreconditions.checkEntryNotNull(CollectPreconditions.java:32)
+	at com.google.common.collect.SingletonImmutableBiMap.&lt;init&gt;(SingletonImmutableBiMap.java:42)
+	at com.google.common.collect.ImmutableBiMap.of(ImmutableBiMap.java:72)
+	at com.google.common.collect.ImmutableMap.of(ImmutableMap.java:124)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at tests.RepoReqDenied.repoProcess(RepoReqDenied.java:93)
+	at tests.QCStore.JQC_TLP_DCDeposit_Decline_2ndDeposit_Decline_Default_Repo_Redeposit_Decline_Txn(QCStore.java:512)
+... Removed 25 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">tests.QCStore#JQC_ILP_Deposit_Return_OtherPayment_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">tests.QCStore#JQC_ILP_Newloan_Deposit_Return_Deposit_Deposit_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">tests.QCStore#JQC_ILP_Newloan_Deposit_Return_Deposit_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">tests.QCStore#JQC_LOC_SignatureLoan_Run2Statements_Default_PartialWaiveFee_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">tests.QCStore#JQC_LOC_SignatureLoan_Run2Statements_Default_WaiveFee_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">tests.QCStore#JQC_LOC_SignatureLoan_Run2Statements_PartialWaiveFee_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">tests.QCStore#JQC_LOC_SignatureLoan_Run2Statements_WaiveFee_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">tests.QCStore#JQC_TXMPDLACH_Newloan_Deposit2_5instand6_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">tests.QCStore#JQC_TXMPDLDC_Newloan_Deposit2_5instand6_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m12">tests.QCStore#JQC_TXMPDL_Newloan_Greaterthan_CSOFee_Duedate_1stInstPayment_Gracedays_2ndInstalPayment_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m13">tests.QCStore#JQC_TXMPDL_Newloan_Greaterthan_CSOFee_Gracedays_Payment_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m14">tests.QCStore#JQC_TXMPDL_Newloan_Lessthan_CSOFee_Duedate_Payment_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m15">tests.QCStore#JQC_TXMPDL_Newloan_Lessthan_CSOFee_Gracedays_Payment_Txn</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

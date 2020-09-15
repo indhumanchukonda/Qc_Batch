@@ -1,0 +1,28 @@
+
+zsquid:S00117+"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ8ÌŸôÅ-
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ8ÌŸôÅ-
+Gsquid:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÌŸôÅ-
+Ysquid:S2130c";Use "Float.parseFloat" for this string-to-float conversion.(åÙù¯8Ç¦µŒÆ-
+`squid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ8†êéÅ-
+p
+squid:S134a"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(—ùÀŠúÿÿÿÿ8’‚ŸŒÆ-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8ÌŸôÅ-
+zsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ8ÌŸôÅ-
+isquid:S1192X"FDefine a constant instead of duplicating this literal "value" 3 times.(°ùöûşÿÿÿÿ8¯ÌÙÆ-
+usquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò8ÌŸôÅ-
+ssquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä8†êéÅ-
+zsquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ8ÌŸôÅ-
+X
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ8ÌŸôÅ-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šë¦®şÿÿÿÿ8ÌŸôÅ-
+asquid:UselessImportCheck"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰8†êéÅ-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­êè¤ÿÿÿÿÿ8ÌŸôÅ-
+msquid:S11929"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ8œÏ¯“Å-
+psquid:S1132a"MMove the "Partial" string literal on the left side of this string comparison.(—ùÀŠúÿÿÿÿ8’‚ŸŒÆ-
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¶«İ8’‚ŸŒÆ-
+ksquid:S1192["HDefine a constant instead of duplicating this literal "waiveLF" 5 times.(‰Å—èûÿÿÿÿ8‡Ÿ¨’Å-
+Dsquid:S1166—"%Either log or rethrow this exception.(”ı¾8ÌŸôÅ-
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šë¦®şÿÿÿÿ8ÌŸôÅ-
+]
+squid:S106s";Replace this usage of System.out or System.err by a logger.(…‰ÊÜùÿÿÿÿ8™ì×’Å-

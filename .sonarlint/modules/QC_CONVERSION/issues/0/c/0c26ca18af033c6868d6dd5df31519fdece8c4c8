@@ -1,0 +1,31 @@
+
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Q
+squid:S106Z";Replace this usage of System.out or System.err by a logger.(˜ã†¹
+]squid:S1192"FDefine a constant instead of duplicating this literal "Login" 3 times.(ïÅ¾«
+ssquid:S00117P"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†çñ¡ûÿÿÿÿ
+V
+squid:S106W";Replace this usage of System.out or System.err by a logger.(µñÌ¸øÿÿÿÿ
+ssquid:S00117-"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£È½úÿÿÿÿ
+?squid:S1148i"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á‡®Úüÿÿÿÿ
+bsquid:S1132'"KMove the "local" string literal on the left side of this string comparison.(üžËÉ
+Osquid:UselessParenthesesCheckX"!Remove those useless parentheses.(²©ŠŽûÿÿÿÿ
+Asquid:S1166g"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõþÿÿÿÿ
+d
+squid:S134'"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(üžËÉ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÐ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öª”r
+ssquid:S00117P"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†çñ¡ûÿÿÿÿ
+Hsquid:S1172"2Remove this unused method parameter "NextDueDate".(Öª”r
+bsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(´ì¬§
+Asquid:S1166K"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+Jsquid:UselessParenthesesCheck"!Remove those useless parentheses.(ïÅ¾«
+?squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öª”r
+Nsquid:S1313-"2Make this IP "192.168.1.182" address configurable.(Ö£È½úÿÿÿÿ
+gsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(“­”»øÿÿÿÿ
+Fsquid:S1172P"*Remove this unused method parameter "SSN".(†çñ¡ûÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú»û¯8­€ÝþÁ.

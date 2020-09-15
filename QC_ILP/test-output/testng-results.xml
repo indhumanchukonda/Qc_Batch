@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="46" total="47" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="459806" started-at="2020-03-20T04:33:22Z" finished-at="2020-03-20T04:41:02Z">
+    <groups>
+      <group name="Janaki1">
+        <method signature="QCStore.JQC_ILP_GraceDays_Deposit_dropdown_Txn()[pri:5, instance:tests.QCStore@527740a2]" name="JQC_ILP_GraceDays_Deposit_dropdown_Txn" class="tests.QCStore"/>
+      </group> <!-- Janaki1 -->
+    </groups>
+    <test name="Test" duration-ms="459806" started-at="2020-03-20T04:33:22Z" finished-at="2020-03-20T04:41:02Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@527740a2]" name="setup" is-config="true" duration-ms="88" started-at="2020-03-20T04:33:22Z" finished-at="2020-03-20T04:33:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5001" started-at="2020-03-20T04:33:23Z" finished-at="2020-03-20T04:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_ILP_GraceDays_Deposit_dropdown_Txn()[pri:5, instance:tests.QCStore@527740a2]" name="JQC_ILP_GraceDays_Deposit_dropdown_Txn" duration-ms="454523" started-at="2020-03-20T04:33:28Z" finished-at="2020-03-20T04:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_ILP_GraceDays_Deposit_dropdown_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="179" started-at="2020-03-20T04:41:02Z" finished-at="2020-03-20T04:41:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_ILP_GraceDays_Deposit_dropdown_Txn status=SUCCESS method=QCStore.JQC_ILP_GraceDays_Deposit_dropdown_Txn()[pri:5, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@527740a2]" name="endReport" is-config="true" duration-ms="0" started-at="2020-03-20T04:41:02Z" finished-at="2020-03-20T04:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

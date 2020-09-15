@@ -1,0 +1,45 @@
+
+Isquid:S1313E"2Make this IP "192.168.2.203" address configurable.(¸¾Ì–
+Osquid:S11970"8Move the array designator from the variable to the type.(åï©ñ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( „Êº
+Jsquid:S1313Á"2Make this IP "192.168.2.203" address configurable.(¸¾Ì–
+ssquid:S00117*"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+fsquid:S11927"PDefine a constant instead of duplicating this literal "li[id='910000']" 4 times.(ÀÕºE
+Psquid:S1197Ô"8Move the array designator from the variable to the type.(œÏ˜Ï
+csquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(ÕŒøë
+hsquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(óå„şûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ€„úÿÿÿÿ
+Esquid:S1481&".Remove this unused "ProductID" local variable.(œñ†í
+Wsquid:UselessImportCheck"3Remove this unused import 'junit.framework.Assert'.(›¡ÇÕ
+tsquid:S00117×"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢·èÄùÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(İ€„úÿÿÿÿ
+nsquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+`squid:S11925"IDefine a constant instead of duplicating this literal "topFrame" 6 times.(ğÁ¾”
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÕŒøë
+osquid:S00117Ô"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÏ˜Ï
+csquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(€Á­à
+Tsquid:S1854&"=Remove this useless assignment to local variable "ProductID".(œñ†í
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÿäj
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+Isquid:S1172"-Remove this unused method parameter "AppURL".(İ€„úÿÿÿÿ
+Asquid:S1166C"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(İ€„úÿÿÿÿ
+fsquid:S1192>"JDefine a constant instead of duplicating this literal "mainFrame" 7 times.(ËøÇªıÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+ssquid:UselessImportCheck	"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(üîÅÿÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ€„úÿÿÿÿ
+tsquid:S00117Ö"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( üêñúÿÿÿÿ
+Bsquid:S1166ë"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+bsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(òóİB
+nsquid:UselessImportCheck"JRemove this unused import 'com.relevantcodes.extentreports.ExtentReports'.(èşÛÑ
+ssquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+nsquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ksquid:UselessImportCheck"GRemove this unused import 'com.relevantcodes.extentreports.ExtentTest'.(ŞÁİÌ
+tsquid:S00117Õ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿû‚şÿÿÿÿ
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ÎŸÂ‰
+Bsquid:S1166¿"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+hsquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(™ã€±üÿÿÿÿ

@@ -1,0 +1,27 @@
+
+Zsquid:S1854"<Remove this useless assignment to local variable "CheckNbr".(àì¹¹8ÅèÄ-
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Ksquid:S1481"-Remove this unused "CheckNbr" local variable.(àì¹¹8ÅèÄ-
+<squid:S1166L"%Either log or rethrow this exception.(”ı¾
+Q
+squid:S1066";Replace this usage of System.out or System.err by a logger.(Ìîé
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙÛóÿÿÿÿÿ
+?squid:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ÇÚ¥†ùÿÿÿÿ8ÅèÄ-
+i
+squid:S134>"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(†³‚ÿøÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙÛóÿÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê ÚÆúÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢ŞÔıÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àì¹¹
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ÏÙÛóÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä€ÒÜ
+i
+squid:S134 "NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙÛóÿÿÿÿÿ
+nsquid:S001175"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÆÏĞ
+hsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(¤Œàe8ÅèÄ-
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ

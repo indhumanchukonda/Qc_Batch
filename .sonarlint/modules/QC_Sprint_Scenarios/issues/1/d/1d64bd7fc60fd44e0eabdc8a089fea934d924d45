@@ -1,0 +1,32 @@
+
+fsquid:S11929"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+]squid:S1192"FDefine a constant instead of duplicating this literal "Clear" 3 times.(éÊ´–
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«É€¹
+gsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(Ë¸»’ÿÿÿÿÿ
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜³õäøÿÿÿÿ
+d
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(µş–
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ
+gsquid:S1132U"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(ÔÊ‚
+esquid:S1132j"IMove the "ACH" string literal on the left side of this string comparison.(²íéıÿÿÿÿ
+ squid:MethodCyclomaticComplexity"cThe Cyclomatic Complexity of this method "clearDropDown" is 11 which is greater than 10 authorized.(ç©Ç‘
+Esquid:S1481 ".Remove this unused "ProductID" local variable.(œñ†í
+>squid:S1481$"'Remove this unused "df" local variable.(©Âìü
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ç©Ç‘
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(ç©Ç‘
+=squid:S1166…"%Either log or rethrow this exception.(”ı¾
+Tsquid:S1854 "=Remove this useless assignment to local variable "ProductID".(œñ†í
+Msquid:S1854$"6Remove this useless assignment to local variable "df".(©Âìü
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç©Ç‘
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç©Ç‘
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿âĞ¬
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œñ†í
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÊâıÿÿÿÿ
+nsquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+ssquid:S00117&"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+ssquid:S00117,"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‘¡Üøÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş

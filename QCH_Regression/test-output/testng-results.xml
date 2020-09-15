@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20727411" started-at="2020-08-12T12:41:02Z" finished-at="2020-08-12T18:26:29Z">
+    <groups>
+      <group name="Indhu">
+        <method signature="QCStore.QC_NewLoan_void_Txn()[pri:1, instance:tests.QCStore@6d7b4f4c]" name="QC_NewLoan_void_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.QC_NewLoan_void_refinance_Txn()[pri:2, instance:tests.QCStore@6d7b4f4c]" name="QC_NewLoan_void_refinance_Txn" class="tests.QCStore"/>
+      </group> <!-- Indhu -->
+    </groups>
+    <test name="Test" duration-ms="20727411" started-at="2020-08-12T12:41:02Z" finished-at="2020-08-12T18:26:29Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@6d7b4f4c]" name="setup" is-config="true" duration-ms="89" started-at="2020-08-12T12:41:02Z" finished-at="2020-08-12T12:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6d7b4f4c]" name="killProcess" is-config="true" duration-ms="5001" started-at="2020-08-12T12:41:02Z" finished-at="2020-08-12T12:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_NewLoan_void_Txn()[pri:1, instance:tests.QCStore@6d7b4f4c]" name="QC_NewLoan_void_Txn" duration-ms="20690511" started-at="2020-08-12T12:41:07Z" finished-at="2020-08-12T18:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_NewLoan_void_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6d7b4f4c]" name="getResult" is-config="true" duration-ms="293" started-at="2020-08-12T18:25:58Z" finished-at="2020-08-12T18:25:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_NewLoan_void_Txn status=SUCCESS method=QCStore.QC_NewLoan_void_Txn()[pri:1, instance:tests.QCStore@6d7b4f4c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@6d7b4f4c]" name="endReport" is-config="true" duration-ms="0" started-at="2020-08-12T18:25:58Z" finished-at="2020-08-12T18:25:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@6d7b4f4c]" name="killProcess" is-config="true" duration-ms="5009" started-at="2020-08-12T18:25:58Z" finished-at="2020-08-12T18:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="QC_NewLoan_void_refinance_Txn()[pri:2, instance:tests.QCStore@6d7b4f4c]" name="QC_NewLoan_void_refinance_Txn" duration-ms="25710" started-at="2020-08-12T18:26:03Z" finished-at="2020-08-12T18:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QC_NewLoan_void_refinance_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@6d7b4f4c]" name="getResult" is-config="true" duration-ms="782" started-at="2020-08-12T18:26:29Z" finished-at="2020-08-12T18:26:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=QC_NewLoan_void_refinance_Txn status=SUCCESS method=QCStore.QC_NewLoan_void_refinance_Txn()[pri:2, instance:tests.QCStore@6d7b4f4c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:tests.QCStore@6d7b4f4c]" name="endReport" is-config="true" duration-ms="0" started-at="2020-08-12T18:26:29Z" finished-at="2020-08-12T18:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

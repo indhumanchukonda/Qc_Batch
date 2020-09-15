@@ -1,0 +1,197 @@
+
+e
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+csquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(¢Íÿ‡
+Bsquid:S1166©"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+lsquid:S1192À"TDefine a constant instead of duplicating this literal "//*[@id='940010']/a" 3 times.(úÛ÷½
+csquid:S1192/"GDefine a constant instead of duplicating this literal "bottom" 3 times.(µïö·ıÿÿÿÿ
+Osquid:S1135Û"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+nsquid:S1192`"WDefine a constant instead of duplicating this literal "Click on submit Button" 3 times.(¼üÓÊ
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(şõŸ¢ûÿÿÿÿ
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(şõŸ¢ûÿÿÿÿ
+Bsquid:S1166Ú"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+gsquid:S1192B"KDefine a constant instead of duplicating this literal "mainFrame" 21 times.(ËøÇªıÿÿÿÿ
+hsquid:S1192#"LDefine a constant instead of duplicating this literal "ProductType" 3 times.(ãú³øÿÿÿÿ
+nsquid:S001172"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+Rsquid:S1141¨"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+tsquid:S00117‘"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+ksquid:S1192¸"TDefine a constant instead of duplicating this literal "//*[@id='900000']/a" 3 times.(Şíä*
+ssquid:S00117("VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+e
+squid:S134ğ"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(¢Íÿ‡
+Rsquid:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+osquid:S00117š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+@squid:S1148ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+esquid:S1192"IDefine a constant instead of duplicating this literal "Writeoff" 6 times.(šÜßÇşÿÿÿÿ
+rsquid:S1192İ"UDefine a constant instead of duplicating this literal "Clicked on Go button" 3 times.(˜œ§„şÿÿÿÿ
+csquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Í÷Ú´
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(£±åÆÿÿÿÿÿ
+Psquid:S1197”"8Move the array designator from the variable to the type.(åï©ñ
+gsquid:S1192;"QDefine a constant instead of duplicating this literal "li[id='910000']" 12 times.(ÀÕºE
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ÕŒøë
+Lsquid:S1481Ê"/Remove this unused "mainwindow" local variable.(Ò®…•şÿÿÿÿ
+nsquid:S1192¦"QDefine a constant instead of duplicating this literal "Loan Number  is " 3 times.(Å—âüÿÿÿÿ
+csquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(ÕŒøë
+jsquid:S1192£"RDefine a constant instead of duplicating this literal "Next due date is " 3 times.(êÇıå
+Isquid:S1172"-Remove this unused method parameter "AppURL".(Íº‚Úıÿÿÿÿ
+[squid:S1854Ê">Remove this useless assignment to local variable "mainwindow".(Ò®…•şÿÿÿÿ
+ssquid:S00117%"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¶ÙŞşÿÿÿÿ
+Xsquid:S1854%"<Remove this useless assignment to local variable "Comments".(Õ¶ÙŞşÿÿÿÿ
+tsquid:S00117ù"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÆ™ºÿÿÿÿÿ
+csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(ÕíÈÑ
+tsquid:S00117‹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+osquid:S00117˜"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼¨ñ
+Zsquid:S1854b">Remove this useless assignment to local variable "mainwindow".(Ò®…•şÿÿÿÿ
+osquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åï©ñ
+tsquid:S00117†"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶´â£ıÿÿÿÿ
+csquid:CommentedOutCodeLineü"<This block of commented-out lines of code should be removed.(ÕŒøë
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¶ÙŞşÿÿÿÿ
+lsquid:UselessImportCheck"HRemove this unused import 'org.openqa.selenium.NoAlertPresentException'.(²Â•ä
+e
+squid:S134ö"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+Isquid:S1481%"-Remove this unused "Comments" local variable.(Õ¶ÙŞşÿÿÿÿ
+tsquid:S1192Ò"\Define a constant instead of duplicating this literal "Loan Nbr selected from List" 3 times.(‚¾š
+nsquid:S1192Z"RDefine a constant instead of duplicating this literal "SSN1 is entered: " 3 times.(èİé°ûÿÿÿÿ
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(»ßö¨şÿÿÿÿ
+Ysquid:S1854"<Remove this useless assignment to local variable "Comments".(Õ¶ÙŞşÿÿÿÿ
+ssquid:S1192Õ"VDefine a constant instead of duplicating this literal "Loan Nbr entered is :" 3 times.(ßªòŒûÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íº‚Úıÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+`squid:S1192œ"HDefine a constant instead of duplicating this literal "History" 3 times.(“È½¸
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(£±åÆÿÿÿÿÿ
+isquid:UselessImportCheck	"@Remove this unused import 'org.apache.poi.util.SystemOutLogger'.(ÄÇœøÿÿÿÿ
+{squid:S1192-"dDefine a constant instead of duplicating this literal "Write off Loan process is initiated" 3 times.(“ó«´
+csquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ÕŒøë
+csquid:CommentedOutCodeLineî"<This block of commented-out lines of code should be removed.( „Êº
+Osquid:S11972"8Move the array designator from the variable to the type.(åï©ñ
+tsquid:S00117Š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+osquid:S00117„"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+squid:S1192˜"iDefine a constant instead of duplicating this literal "Clicked on Go button under Loans section" 3 times.(îåêê
+msquid:UselessImportCheck"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó
+Ksquid:S1481b"/Remove this unused "mainwindow" local variable.(Ò®…•şÿÿÿÿ
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(±¡·ûÿÿÿÿ
+Ysquid:UselessImportCheck"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ
+tsquid:S00117ù"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÆ™ºÿÿÿÿÿ
+Lsquid:S1481Ä"/Remove this unused "mainwindow" local variable.(Ò®…•şÿÿÿÿ
+osquid:S00117ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Êß
+osquid:S00117‰"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+bsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(ìŠ¹
+…squid:S1192—"hDefine a constant instead of duplicating this literal "//input[@value='Go' and @type='button']" 3 times.(÷æ£üÿÿÿÿ
+„squid:S1192Í"gDefine a constant instead of duplicating this literal "Clicked on Customer search radiobutton" 3 times.(§ò£­ûÿÿÿÿ
+Jsquid:S1172ù"-Remove this unused method parameter "AppURL".(ìÆ™ºÿÿÿÿÿ
+isquid:S1192\"RDefine a constant instead of duplicating this literal "SSN2 is entered: " 3 times.(®äË­
+bsquid:S1854$"FRemove this useless assignment to local variable "ReasonsforTransfer".(¶´â£ıÿÿÿÿ
+Asquid:S1166G"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+csquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(š¸ãÍ
+qsquid:S1192»"TDefine a constant instead of duplicating this literal "Clicked on Borrower" 3 times.(‰Ôîÿÿÿÿÿ
+xsquid:S1192Ï"[Define a constant instead of duplicating this literal "//*[@id='ach12']/option[6]" 3 times.(–ñ©§ûÿÿÿÿ
+hsquid:S1192²"PDefine a constant instead of duplicating this literal "li[id='900000']" 3 times.(Ğ™°è
+Bsquid:S1166¯"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+esquid:S1192%"IDefine a constant instead of duplicating this literal "Comments" 3 times.(Õ¶ÙŞşÿÿÿÿ
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(ÕŒøë
+lsquid:S00100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÆ™ºÿÿÿÿÿ
+osquid:S1192$"SDefine a constant instead of duplicating this literal "ReasonsforTransfer" 3 times.(¶´â£ıÿÿÿÿ
+nsquid:S001170"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼¨ñ
+ssquid:S00117$"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶´â£ıÿÿÿÿ
+osquid:S00117’"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¼¨ñ
+csquid:S1854†"FRemove this useless assignment to local variable "ReasonsforTransfer".(¶´â£ıÿÿÿÿ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎŸÂ‰
+Bsquid:S1166ï"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+ssquid:UselessImportCheck"JRemove this unused import 'org.openqa.selenium.ie.InternetExplorerDriver'.(íí‡ÿÿÿÿÿ
+osquid:S00117Š"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+}squid:S11920"fDefine a constant instead of duplicating this literal "/html/body/blink/table/tbody/tr/td[4]" 3 times.(ó¼¨ñ
+rsquid:S1192Ô"UDefine a constant instead of duplicating this literal "requestBean.loanCode" 3 times.(äÄË™ÿÿÿÿÿ
+j
+squid:S134¨"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+psquid:S1192Æ"XDefine a constant instead of duplicating this literal "requestBean.productType" 3 times.(³ËÇü
+tsquid:S00117‹"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ
+i
+squid:S134@"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+osquid:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ìÆ™ºÿÿÿÿÿ
+@squid:S1148Ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Tsquid:S1481†"7Remove this unused "ReasonsforTransfer" local variable.(¶´â£ıÿÿÿÿ
+tsquid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¶ÙŞşÿÿÿÿ
+hsquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(–Æ×ºùÿÿÿÿ
+csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(ÕíÈÑ
+Ysquid:S1854‡"<Remove this useless assignment to local variable "Comments".(Õ¶ÙŞşÿÿÿÿ
+e
+squid:S134€"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+tsquid:S00117…"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ
+Zsquid:UselessImportCheck
+"6Remove this unused import 'org.openqa.selenium.Alert'.(Àã¥‰
+jsquid:S3776ÿ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(—Êß
+e
+squid:S134â"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+Ssquid:S1481$"7Remove this unused "ReasonsforTransfer" local variable.(¶´â£ıÿÿÿÿ
+csquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(š¸ãÍ
+[squid:S1854Ä">Remove this useless assignment to local variable "mainwindow".(Ò®…•şÿÿÿÿ
+nsquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+hsquid:CommentedOutCodeLineŠ"<This block of commented-out lines of code should be removed.(„²ãğûÿÿÿÿ
+e
+squid:S134ß"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(­«„¡
+€squid:S1192"hDefine a constant instead of duplicating this literal "Transaction Type is selected as History" 3 times.(Œış»
+hsquid:S1192œ"PDefine a constant instead of duplicating this literal "transactionList" 3 times.(“È½¸
+@squid:S1148ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+‘squid:S1192Ÿ"yDefine a constant instead of duplicating this literal "Clicked on Go button under Transaction selection section" 3 times.(»¦öø
+e
+squid:S134Ø"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ãºïó
+csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.( „Êº
+nsquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+osquid:S00117ÿ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Êß
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+tsquid:S1192>"]Define a constant instead of duplicating this literal "Clicked on Loan Transactions" 3 times.(¶ü³È
+e
+squid:S134Ã"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(­«„¡
+jsquid:S11924"SDefine a constant instead of duplicating this literal "Business date is :" 3 times.(¸€»Å
+ªsquid:S1192Û"’Define a constant instead of duplicating this literal "//*[@id='SearchResults']/form/table/tbody/tr/td/table[3]/tbody/tr[3]/td[15]/input" 6 times.(Âàw
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ÎŸÂ‰
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.( „Êº
+ssquid:S00117#"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãú³øÿÿÿÿ
+osquid:S1192E"XDefine a constant instead of duplicating this literal "Clicked on Transactions" 6 times.(ãÿÊˆ
+Qsquid:S1141@"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Jsquid:S1481‡"-Remove this unused "Comments" local variable.(Õ¶ÙŞşÿÿÿÿ
+nsquid:S1192^"RDefine a constant instead of duplicating this literal "SSN3 is entered: " 3 times.(­©“æüÿÿÿÿ
+‚squid:S1192‹"jDefine a constant instead of duplicating this literal "Clicked on GO Button under search results" 3 times.(¦ÿÄ
+Œsquid:S1192Ê"oDefine a constant instead of duplicating this literal "//*[@id='queueTable']/tbody/tr[28]/td[1]/input" 3 times.(µÕ†Àşÿÿÿÿ
+vsquid:S1192Ù"YDefine a constant instead of duplicating this literal "Clicked on Search button" 3 times.(›Ï™…ùÿÿÿÿ
+csquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(Í÷Ú´
+e
+squid:S134è"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½ô‘¡
+Osquid:S1135÷"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+dsquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ÎŸÂ‰
+csquid:S1192Ø"KDefine a constant instead of duplicating this literal "searchajax" 3 times.(¢ğ
+hsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(»ßö¨şÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íº‚Úıÿÿÿÿ
+dsquid:S1192Š"GDefine a constant instead of duplicating this literal "button" 6 times.(óª€¸øÿÿÿÿ
+Psquid:S1197š"8Move the array designator from the variable to the type.(åï©ñ
+Osquid:S1135ğ"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Jsquid:S1481"-Remove this unused "Comments" local variable.(Õ¶ÙŞşÿÿÿÿ
+hsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(»ßö¨şÿÿÿÿ
+lsquid:S1192D"PDefine a constant instead of duplicating this literal "li[id='911101']" 6 times.(Ö«´»ûÿÿÿÿ
+hsquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(–Æ×ºùÿÿÿÿ
+csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(ÕíÈÑ
+Esquid:S1172ÿ"-Remove this unused method parameter "AppURL".(—Êß
+dsquid:S1192_"HDefine a constant instead of duplicating this literal "submit1" 3 times.(ãÒÌ—şÿÿÿÿ
+csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(Í÷Ú´
+osquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(¢Íÿ‡
+csquid:S1854Œ"FRemove this useless assignment to local variable "ReasonsforTransfer".(¶´â£ıÿÿÿÿ
+Bsquid:S1166ö"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+hsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(şõŸ¢ûÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Íº‚Úıÿÿÿÿ
+tsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+tsquid:S00117Œ"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶´â£ıÿÿÿÿ
+ssquid:S1192Ç"[Define a constant instead of duplicating this literal "Product Type Selected as :" 3 times.(¦­§™
+Tsquid:S1481Œ"7Remove this unused "ReasonsforTransfer" local variable.(¶´â£ıÿÿÿÿ
+csquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ÕŒøë
+{squid:S1192Á"^Define a constant instead of duplicating this literal "Clicked on Courtesy Call Link" 3 times.(ŠŠ¢şÿÿÿÿ
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(£±åÆÿÿÿÿÿ
+asquid:S11929"JDefine a constant instead of duplicating this literal "topFrame" 15 times.(ğÁ¾”
+j
+squid:S134¢"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+osquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(„²ãğûÿÿÿÿ8ß¾ŒÇ.

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="37" total="57" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13705376" started-at="2020-03-09T10:14:28Z" finished-at="2020-03-09T14:02:54Z">
+    <groups>
+      <group name="Janaki">
+        <method signature="QCStore.JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn()[pri:409, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_Deposit_AutoClear_Txn()[pri:405, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Deposit_AutoClear_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_Deposit_ClearMenu_Txn()[pri:404, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Deposit_ClearMenu_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_Deposit_Return_Refinance_Txn()[pri:410, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Deposit_Return_Refinance_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_Deposit_Return_Refinance_Void_Txn()[pri:411, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Deposit_Return_Refinance_Void_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn()[pri:408, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_PrePayment_Clear_Txn()[pri:407, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_PrePayment_Clear_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_PrePayment_Return_Txn()[pri:406, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_PrePayment_Return_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn()[pri:413, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_AgeStore_Refinance_Rescind_Txn()[pri:412, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Refinance_Rescind_Txn" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_BuyBack_Rebate_Txn_Testdata()[pri:418, instance:tests.QCStore@527740a2]" name="JQC_BuyBack_Rebate_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_BuyBack_Rebate_Void_Txn_Testdata()[pri:419, instance:tests.QCStore@527740a2]" name="JQC_BuyBack_Rebate_Void_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_BuyBack_Txn_Testdata()[pri:416, instance:tests.QCStore@527740a2]" name="JQC_BuyBack_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_BuyBack_Void_Txn_Testdata()[pri:417, instance:tests.QCStore@527740a2]" name="JQC_BuyBack_Void_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata()[pri:420, instance:tests.QCStore@527740a2]" name="JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_Deposit_Return_EPP_Txn_Testdata()[pri:421, instance:tests.QCStore@527740a2]" name="JQC_Deposit_Return_EPP_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata()[pri:422, instance:tests.QCStore@527740a2]" name="JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_EPP_Txn_Testdata()[pri:425, instance:tests.QCStore@527740a2]" name="JQC_EPP_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata()[pri:423, instance:tests.QCStore@527740a2]" name="JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata" class="tests.QCStore"/>
+        <method signature="QCStore.JQC_Return_ReDeposit_Clear_Txn()[pri:414, instance:tests.QCStore@527740a2]" name="JQC_Return_ReDeposit_Clear_Txn" class="tests.QCStore"/>
+      </group> <!-- Janaki -->
+    </groups>
+    <test name="Test" duration-ms="13705376" started-at="2020-03-09T10:14:28Z" finished-at="2020-03-09T14:02:54Z">
+      <class name="tests.QCStore">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.QCStore@527740a2]" name="setup" is-config="true" duration-ms="91" started-at="2020-03-09T10:14:28Z" finished-at="2020-03-09T10:14:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5010" started-at="2020-03-09T10:14:28Z" finished-at="2020-03-09T10:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_Deposit_ClearMenu_Txn()[pri:404, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Deposit_ClearMenu_Txn" duration-ms="746924" started-at="2020-03-09T10:14:33Z" finished-at="2020-03-09T10:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_Deposit_ClearMenu_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="175" started-at="2020-03-09T10:27:00Z" finished-at="2020-03-09T10:27:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_Deposit_ClearMenu_Txn status=SUCCESS method=QCStore.JQC_AgeStore_Deposit_ClearMenu_Txn()[pri:404, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5009" started-at="2020-03-09T10:27:01Z" finished-at="2020-03-09T10:27:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_Deposit_AutoClear_Txn()[pri:405, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Deposit_AutoClear_Txn" duration-ms="634408" started-at="2020-03-09T10:27:06Z" finished-at="2020-03-09T10:37:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_Deposit_AutoClear_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="45" started-at="2020-03-09T10:37:40Z" finished-at="2020-03-09T10:37:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_Deposit_AutoClear_Txn status=SUCCESS method=QCStore.JQC_AgeStore_Deposit_AutoClear_Txn()[pri:405, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5013" started-at="2020-03-09T10:37:40Z" finished-at="2020-03-09T10:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_PrePayment_Return_Txn()[pri:406, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_PrePayment_Return_Txn" duration-ms="755452" started-at="2020-03-09T10:37:45Z" finished-at="2020-03-09T10:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_PrePayment_Return_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="31" started-at="2020-03-09T10:50:21Z" finished-at="2020-03-09T10:50:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_PrePayment_Return_Txn status=SUCCESS method=QCStore.JQC_AgeStore_PrePayment_Return_Txn()[pri:406, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5009" started-at="2020-03-09T10:50:21Z" finished-at="2020-03-09T10:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_PrePayment_Clear_Txn()[pri:407, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_PrePayment_Clear_Txn" duration-ms="777575" started-at="2020-03-09T10:50:26Z" finished-at="2020-03-09T11:03:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_PrePayment_Clear_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="31" started-at="2020-03-09T11:03:23Z" finished-at="2020-03-09T11:03:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_PrePayment_Clear_Txn status=SUCCESS method=QCStore.JQC_AgeStore_PrePayment_Clear_Txn()[pri:407, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5013" started-at="2020-03-09T11:03:23Z" finished-at="2020-03-09T11:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn()[pri:408, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn" duration-ms="582620" started-at="2020-03-09T11:03:28Z" finished-at="2020-03-09T11:13:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="30" started-at="2020-03-09T11:13:11Z" finished-at="2020-03-09T11:13:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn status=SUCCESS method=QCStore.JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn()[pri:408, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5013" started-at="2020-03-09T11:13:11Z" finished-at="2020-03-09T11:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn()[pri:409, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn" duration-ms="674799" started-at="2020-03-09T11:13:16Z" finished-at="2020-03-09T11:24:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="36" started-at="2020-03-09T11:24:31Z" finished-at="2020-03-09T11:24:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn status=SUCCESS method=QCStore.JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn()[pri:409, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5011" started-at="2020-03-09T11:24:31Z" finished-at="2020-03-09T11:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_Deposit_Return_Refinance_Txn()[pri:410, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Deposit_Return_Refinance_Txn" duration-ms="541845" started-at="2020-03-09T11:24:36Z" finished-at="2020-03-09T11:33:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_Deposit_Return_Refinance_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="38" started-at="2020-03-09T11:33:38Z" finished-at="2020-03-09T11:33:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_Deposit_Return_Refinance_Txn status=SUCCESS method=QCStore.JQC_AgeStore_Deposit_Return_Refinance_Txn()[pri:410, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5012" started-at="2020-03-09T11:33:38Z" finished-at="2020-03-09T11:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_Deposit_Return_Refinance_Void_Txn()[pri:411, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Deposit_Return_Refinance_Void_Txn" duration-ms="993505" started-at="2020-03-09T11:33:43Z" finished-at="2020-03-09T11:50:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_Deposit_Return_Refinance_Void_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="28" started-at="2020-03-09T11:50:16Z" finished-at="2020-03-09T11:50:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_Deposit_Return_Refinance_Void_Txn status=SUCCESS method=QCStore.JQC_AgeStore_Deposit_Return_Refinance_Void_Txn()[pri:411, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5011" started-at="2020-03-09T11:50:16Z" finished-at="2020-03-09T11:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_Refinance_Rescind_Txn()[pri:412, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Refinance_Rescind_Txn" duration-ms="498966" started-at="2020-03-09T11:50:21Z" finished-at="2020-03-09T11:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_Refinance_Rescind_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="41" started-at="2020-03-09T11:58:40Z" finished-at="2020-03-09T11:58:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_Refinance_Rescind_Txn status=SUCCESS method=QCStore.JQC_AgeStore_Refinance_Rescind_Txn()[pri:412, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5011" started-at="2020-03-09T11:58:40Z" finished-at="2020-03-09T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn()[pri:413, instance:tests.QCStore@527740a2]" name="JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn" duration-ms="711657" started-at="2020-03-09T11:58:45Z" finished-at="2020-03-09T12:10:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="37" started-at="2020-03-09T12:10:37Z" finished-at="2020-03-09T12:10:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn status=SUCCESS method=QCStore.JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn()[pri:413, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5012" started-at="2020-03-09T12:10:37Z" finished-at="2020-03-09T12:10:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_Return_ReDeposit_Clear_Txn()[pri:414, instance:tests.QCStore@527740a2]" name="JQC_Return_ReDeposit_Clear_Txn" duration-ms="1213269" started-at="2020-03-09T12:10:42Z" finished-at="2020-03-09T12:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_Return_ReDeposit_Clear_Txn -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="40" started-at="2020-03-09T12:30:55Z" finished-at="2020-03-09T12:30:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_Return_ReDeposit_Clear_Txn status=SUCCESS method=QCStore.JQC_Return_ReDeposit_Clear_Txn()[pri:414, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5011" started-at="2020-03-09T12:30:55Z" finished-at="2020-03-09T12:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_BuyBack_Txn_Testdata()[pri:416, instance:tests.QCStore@527740a2]" name="JQC_BuyBack_Txn_Testdata" duration-ms="485914" started-at="2020-03-09T12:31:00Z" finished-at="2020-03-09T12:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_BuyBack_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="35" started-at="2020-03-09T12:39:06Z" finished-at="2020-03-09T12:39:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_BuyBack_Txn_Testdata status=SUCCESS method=QCStore.JQC_BuyBack_Txn_Testdata()[pri:416, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5011" started-at="2020-03-09T12:39:06Z" finished-at="2020-03-09T12:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_BuyBack_Void_Txn_Testdata()[pri:417, instance:tests.QCStore@527740a2]" name="JQC_BuyBack_Void_Txn_Testdata" duration-ms="470404" started-at="2020-03-09T12:39:11Z" finished-at="2020-03-09T12:47:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_BuyBack_Void_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="43" started-at="2020-03-09T12:47:02Z" finished-at="2020-03-09T12:47:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_BuyBack_Void_Txn_Testdata status=SUCCESS method=QCStore.JQC_BuyBack_Void_Txn_Testdata()[pri:417, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5009" started-at="2020-03-09T12:47:02Z" finished-at="2020-03-09T12:47:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_BuyBack_Rebate_Txn_Testdata()[pri:418, instance:tests.QCStore@527740a2]" name="JQC_BuyBack_Rebate_Txn_Testdata" duration-ms="490607" started-at="2020-03-09T12:47:07Z" finished-at="2020-03-09T12:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_BuyBack_Rebate_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="51" started-at="2020-03-09T12:55:17Z" finished-at="2020-03-09T12:55:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_BuyBack_Rebate_Txn_Testdata status=SUCCESS method=QCStore.JQC_BuyBack_Rebate_Txn_Testdata()[pri:418, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5008" started-at="2020-03-09T12:55:17Z" finished-at="2020-03-09T12:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_BuyBack_Rebate_Void_Txn_Testdata()[pri:419, instance:tests.QCStore@527740a2]" name="JQC_BuyBack_Rebate_Void_Txn_Testdata" duration-ms="537486" started-at="2020-03-09T12:55:22Z" finished-at="2020-03-09T13:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_BuyBack_Rebate_Void_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="39" started-at="2020-03-09T13:04:20Z" finished-at="2020-03-09T13:04:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_BuyBack_Rebate_Void_Txn_Testdata status=SUCCESS method=QCStore.JQC_BuyBack_Rebate_Void_Txn_Testdata()[pri:419, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5012" started-at="2020-03-09T13:04:20Z" finished-at="2020-03-09T13:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata()[pri:420, instance:tests.QCStore@527740a2]" name="JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata" duration-ms="786422" started-at="2020-03-09T13:04:25Z" finished-at="2020-03-09T13:17:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="51" started-at="2020-03-09T13:17:31Z" finished-at="2020-03-09T13:17:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata status=SUCCESS method=QCStore.JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata()[pri:420, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5010" started-at="2020-03-09T13:17:31Z" finished-at="2020-03-09T13:17:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_Deposit_Return_EPP_Txn_Testdata()[pri:421, instance:tests.QCStore@527740a2]" name="JQC_Deposit_Return_EPP_Txn_Testdata" duration-ms="687870" started-at="2020-03-09T13:17:36Z" finished-at="2020-03-09T13:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_Deposit_Return_EPP_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="45" started-at="2020-03-09T13:29:04Z" finished-at="2020-03-09T13:29:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_Deposit_Return_EPP_Txn_Testdata status=SUCCESS method=QCStore.JQC_Deposit_Return_EPP_Txn_Testdata()[pri:421, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5009" started-at="2020-03-09T13:29:04Z" finished-at="2020-03-09T13:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata()[pri:422, instance:tests.QCStore@527740a2]" name="JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata" duration-ms="954607" started-at="2020-03-09T13:29:09Z" finished-at="2020-03-09T13:45:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="47" started-at="2020-03-09T13:45:04Z" finished-at="2020-03-09T13:45:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata status=SUCCESS method=QCStore.JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata()[pri:422, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5018" started-at="2020-03-09T13:45:04Z" finished-at="2020-03-09T13:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata()[pri:423, instance:tests.QCStore@527740a2]" name="JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata" duration-ms="665426" started-at="2020-03-09T13:45:09Z" finished-at="2020-03-09T13:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="47" started-at="2020-03-09T13:56:14Z" finished-at="2020-03-09T13:56:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata status=SUCCESS method=QCStore.JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata()[pri:423, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="killProcess()[pri:0, instance:tests.QCStore@527740a2]" name="killProcess" is-config="true" duration-ms="5008" started-at="2020-03-09T13:56:14Z" finished-at="2020-03-09T13:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killProcess -->
+        <test-method status="PASS" signature="JQC_EPP_Txn_Testdata()[pri:425, instance:tests.QCStore@527740a2]" name="JQC_EPP_Txn_Testdata" duration-ms="394333" started-at="2020-03-09T13:56:19Z" finished-at="2020-03-09T14:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JQC_EPP_Txn_Testdata -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:tests.QCStore@527740a2]" name="getResult" is-config="true" duration-ms="50" started-at="2020-03-09T14:02:54Z" finished-at="2020-03-09T14:02:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=JQC_EPP_Txn_Testdata status=SUCCESS method=QCStore.JQC_EPP_Txn_Testdata()[pri:425, instance:tests.QCStore@527740a2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- tests.QCStore -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

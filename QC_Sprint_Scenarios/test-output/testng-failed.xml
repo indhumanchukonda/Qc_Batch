@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="QF-342"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.QCStore">
+        <methods>
+          <include name="QF_342_TS035"/>
+          <include name="QF_342_TS021"/>
+          <include name="QF_342_TS032"/>
+          <include name="QF_342_TS043"/>
+          <include name="QF_342_TS023"/>
+          <include name="QF_342_TS017"/>
+          <include name="QF_342_TS025"/>
+          <include name="QF_342_TS036"/>
+          <include name="QF_342_TS0046"/>
+          <include name="QF_342_TS044"/>
+          <include name="setup"/>
+          <include name="QF_342_TS016"/>
+          <include name="QF_342_TS027"/>
+          <include name="QF_342_TS031"/>
+          <include name="QF_342_TS042"/>
+          <include name="QF_342_TS030"/>
+          <include name="QF_342_TS041"/>
+          <include name="killProcess"/>
+          <include name="getResult"/>
+          <include name="QF_342_TS029"/>
+          <include name="QF_342_TS0039"/>
+          <include name="QF_342_TS048"/>
+          <include name="QF_342_TS019"/>
+        </methods>
+      </class> <!-- tests.QCStore -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

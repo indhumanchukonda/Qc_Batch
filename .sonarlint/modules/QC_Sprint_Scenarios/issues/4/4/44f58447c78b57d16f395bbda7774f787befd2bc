@@ -1,0 +1,35 @@
+
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰üÙ’
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ
+gsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(¬è¼ùÿÿÿÿ
+Dsquid:S1172"-Remove this unused method parameter "AppURL".(í•ç´
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(É±©Áýÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í•ç´
+gsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Š‘¤æÿÿÿÿÿ
+?squid:S1148w"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+<squid:S1166X"%Either log or rethrow this exception.(¬Ù¨Í
+Qsquid:S1141R"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜³õäøÿÿÿÿ
+ssquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ þÿÿÿÿ
+ssquid:S00117)"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä’â«øÿÿÿÿ
+bsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(¯•Å£
+asquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(öÂ÷g
+asquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(öÂ÷g
+nsquid:S00117 "VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í•ç´
+Isquid:S1199e"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’éø­þÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ž±‹ ÿÿÿÿÿ
+bsquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(åø”÷
+Asquid:S00108X")Either remove or fill this block of code.(¬Ù¨Í
+fsquid:S11928"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªýÿÿÿÿ
+bsquid:CommentedOutCodeLiner"<This block of commented-out lines of code should be removed.(²Ðòí
+Isquid:S1199]"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(‡Úž«üÿÿÿÿ
+Nsquid:S1135q"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ÚÄê‹øÿÿÿÿ
+i
+squid:S134#"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¹‘éŽÿÿÿÿÿ
+gsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(åíß üÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ðØõ8ÆÉÌï¹.

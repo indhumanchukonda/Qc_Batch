@@ -1,0 +1,179 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>20/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Mar 09 15:44:28 IST 2020</td>
+</tr>
+<tr><td>Total time:</td><td>13705 seconds (13705376 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td>Janaki </td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn()'><b>JQC_AgeStore_ACHReturn_Refinance_Rescind_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>674</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_Deposit_AutoClear_Txn()'><b>JQC_AgeStore_Deposit_AutoClear_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>634</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_Deposit_ClearMenu_Txn()'><b>JQC_AgeStore_Deposit_ClearMenu_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>746</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_Deposit_Return_Refinance_Txn()'><b>JQC_AgeStore_Deposit_Return_Refinance_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>541</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_Deposit_Return_Refinance_Void_Txn()'><b>JQC_AgeStore_Deposit_Return_Refinance_Void_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>993</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn()'><b>JQC_AgeStore_NSFPosting_Refinance_Rescind_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>582</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_PrePayment_Clear_Txn()'><b>JQC_AgeStore_PrePayment_Clear_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>777</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_PrePayment_Return_Txn()'><b>JQC_AgeStore_PrePayment_Return_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>755</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn()'><b>JQC_AgeStore_Redeposit_Prepayment_Void_Prepayment_Return_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>711</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_AgeStore_Refinance_Rescind_Txn()'><b>JQC_AgeStore_Refinance_Rescind_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>498</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_BuyBack_Rebate_Txn_Testdata()'><b>JQC_BuyBack_Rebate_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>490</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_BuyBack_Rebate_Void_Txn_Testdata()'><b>JQC_BuyBack_Rebate_Void_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>537</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_BuyBack_Txn_Testdata()'><b>JQC_BuyBack_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>485</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_BuyBack_Void_Txn_Testdata()'><b>JQC_BuyBack_Void_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>470</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata()'><b>JQC_ChkDeposit_RtnChk_ReDeposit_Payment_Void_Clear_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>786</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_Deposit_Return_EPP_Txn_Testdata()'><b>JQC_Deposit_Return_EPP_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>687</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata()'><b>JQC_EPP_AgestoreInstallmentwise_EPPPayment_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>954</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_EPP_Txn_Testdata()'><b>JQC_EPP_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>394</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata()'><b>JQC_PartialWORecovery_FullWORecovery_Void_Txn_Testdata</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>665</td>
+<td>tests.QCStore@527740a2</td></tr>
+<tr>
+<td title='tests.QCStore.JQC_Return_ReDeposit_Clear_Txn()'><b>JQC_Return_ReDeposit_Clear_Txn</b><br>Test class: tests.QCStore</td>
+<td></td>
+<td>1213</td>
+<td>tests.QCStore@527740a2</td></tr>
+</table><p>
+</body>
+</html>

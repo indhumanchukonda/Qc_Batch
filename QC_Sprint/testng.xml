@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <groups>																																																	
+  <run>
+
+  <!-- Jyothi group-->  
+   <!-- <include name="Jyothi12"/> -->
+   <!-- <include name="LOC_601"/> -->
+   <include name="TLP12"/>
+  
+  
+
+   <!-- <include name="Jyothi_PDL_Accounting"/> -->
+
+  </run>
+  </groups> 
+   <classes>
+      <class name="tests.QCStore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

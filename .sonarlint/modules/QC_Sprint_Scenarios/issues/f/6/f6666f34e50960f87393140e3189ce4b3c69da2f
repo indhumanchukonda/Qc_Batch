@@ -1,0 +1,48 @@
+
+Bsquid:S1166¥"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(í¸»ıÿÿÿÿ
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(í¸»ıÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+Rsquid:S1141²"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+osquid:S1192€"WDefine a constant instead of duplicating this literal "Clicked on Finish Safe" 3 times.(»ô³¶
+Asquid:S1166O"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+„squid:S1192%"hDefine a constant instead of duplicating this literal "//*[contains(text(),'Cash Management')]" 3 times.(ã´Ê¥ûÿÿÿÿ
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(É±©Áıÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¸»ıÿÿÿÿ
+csquid:CommentedOutCodeLine¬"<This block of commented-out lines of code should be removed.(˜”¤
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä’â«øÿÿÿÿ
+hsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(Ì‹Òİıÿÿÿÿ
+bsquid:S1192"KDefine a constant instead of duplicating this literal "safeassign" 3 times.(ÉÎÉÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Ú«üÿÿÿÿ
+Asquid:S1166s"%Either log or rethrow this exception.(ñ“Š±üÿÿÿÿ
+gsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(•ˆËÈúÿÿÿÿ
+Qsquid:S1141J"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+gsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(…ßšåıÿÿÿÿ
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(¬è¼ùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’éø­şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚÄê‹øÿÿÿÿ
+=squid:S1166Ÿ"%Either log or rethrow this exception.(¬Ù¨Í
+Rsquid:S1141™"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+squid:S106Q";Replace this usage of System.out or System.err by a logger.(ù…‡q
+Gsquid:S00108¾")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+fsquid:S1192,"JDefine a constant instead of duplicating this literal "mainFrame" 5 times.(ËøÇªıÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+Isquid:S1135t"2Complete the task associated to this TODO comment.(‡ñÅ¼
+j
+squid:S134²"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+=squid:S1166¸"%Either log or rethrow this exception.(¬Ù¨Í
+Gsquid:S00108¦")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¾˜ şÿÿÿÿ
+gsquid:CommentedOutCodeLinel"<This block of commented-out lines of code should be removed.(•ˆËÈúÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(í¸»ıÿÿÿÿ
+=squid:S1166È"%Either log or rethrow this exception.(¬Ù¨Í
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¸»ıÿÿÿÿ
+j
+squid:S134™"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+Bsquid:S1166½"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+i
+squid:S134J"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ
+=squid:S1166ˆ"%Either log or rethrow this exception.(¬Ù¨Í
+gsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(É±©Áıÿÿÿÿ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¬è¼ùÿÿÿÿ

@@ -1,0 +1,21 @@
+
+Vsquid:S1197x"8Move the array designator from the variable to the type.(Ø±Â¤8µÊñª.
+msquid:S11926"JDefine a constant instead of duplicating this literal "mainFrame" 3 times.(ËøÇªıÿÿÿÿ8µÊñª.
+isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(¸¼ö­8µÊñª.
+nsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(“íöèûÿÿÿÿ8µÊñª.
+isquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(á’“Ê8µÊñª.
+fsquid:S1132Ÿ"GMove the "1" string literal on the left side of this string comparison.(±æ²ò8µÊñª.
+Psquid:S1172"-Remove this unused method parameter "AppURL".(‡«Úºıÿÿÿÿ8µÊñª.
+Dsquid:S1166›"%Either log or rethrow this exception.(¬Ù¨Í8µÊñª.
+Isquid:S1166±"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ8µÊñª.
+Nsquid:S00108²")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8µÊñª.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«Úºıÿÿÿÿ8µÊñª.
+zsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡«Úºıÿÿÿÿ8µÊñª.
+usquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËĞÈ½8µÊñª.
+usquid:S00117!"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©8µÊñª.
+usquid:S00117'"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÒÕ‡8µÊñª.
+usquid:S00117f"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŠšË8µÊñª.
+tsquid:S00117k"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÕĞw8µÊñª.
+usquid:S00117t"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´Ùı8µÊñª.
+zsquid:S00117v"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óéçıÿÿÿÿ8µÊñª.
+¤squid:S1160"€Refactor this method to throw at most one checked exception instead of: java.lang.InterruptedException, java.text.ParseException(‡«Úºıÿÿÿÿ8µÊñª.

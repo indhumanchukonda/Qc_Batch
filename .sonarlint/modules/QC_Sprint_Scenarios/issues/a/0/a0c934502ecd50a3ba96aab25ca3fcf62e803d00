@@ -1,0 +1,84 @@
+
+tsquid:S00117‡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ôœøÿÿÿÿ
+hsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(Œå­õùÿÿÿÿ
+Isquid:S1166Ì"%Either log or rethrow this exception.(´‚¤–øÿÿÿÿ8õùÓ¤.
+Usquid:S1854±"8Remove this useless assignment to local variable "SSN2".(ü¶„Îşÿÿÿÿ
+Fsquid:S1481²")Remove this unused "SSN3" local variable.(İøúÇıÿÿÿÿ
+csquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(¥¿«£
+nsquid:S00117/"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘®öòùÿÿÿÿ
+Psquid:S1854°"8Remove this useless assignment to local variable "SSN1".(Ã–Ò
+osquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÊÑŸ
+isquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(¢Èøş8Ğ…åÓ¤.
+Usquid:UselessImportCheck"1Remove this unused import 'java.util.Properties'.(¬µ²
+jsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(Ó½¯£8“ø¥Ò¤.
+ssquid:S00117""VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘®öòùÿÿÿÿ
+bsquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(Ó½¯£
+fsquid:S1132–"IMove the "ACH" string literal on the left side of this string comparison.(˜—±Ìşÿÿÿÿ
+ssquid:S00117<"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+osquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(ÁúÜàøÿÿÿÿ8“ø¥Ò¤.
+Esquid:S1481E")Remove this unused "wait" local variable.(ëÁ‰¿úÿÿÿÿ
+Bsquid:S1166á"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ
+tsquid:S00117±"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+Esquid:S1481<")Remove this unused "SSN3" local variable.(İøúÇıÿÿÿÿ
+Nsquid:S00108Í")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8õùÓ¤.
+hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+hsquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(¤ÈËúÿÿÿÿ
+Hsquid:S14814"*Remove this unused "state" local variable.(¢çÊ8ƒÏÃÒ¤.
+Osquid:S1854:"8Remove this useless assignment to local variable "SSN1".(Ã–Ò
+‰squid:S1192á"qDefine a constant instead of duplicating this literal "Entered the Second Signature field details as : " 4 times.(Ÿ¿ÛÛ
+bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+Usquid:S1854²"8Remove this useless assignment to local variable "SSN3".(İøúÇıÿÿÿÿ
+osquid:S00117”"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÊÑŸ
+csquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(½Åğ”
+Isquid:S1166”"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ8“ø¥Ò¤.
+tsquid:S00117²"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İøúÇıÿÿÿÿ
+^
+squid:S106À";Replace this usage of System.out or System.err by a logger.(İšÄÌúÿÿÿÿ8“ø¥Ò¤.
+gsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(çâ¿¸ıÿÿÿÿ
+csquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(û¾¹ú
+Tsquid:S1854;"8Remove this useless assignment to local variable "SSN2".(ü¶„Îşÿÿÿÿ
+ssquid:S00117;"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶„Îşÿÿÿÿ
+R
+squid:S106ã";Replace this usage of System.out or System.err by a logger.(¢»Ï¯
+Ysquid:S1141È"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8“ø¥Ò¤.
+Ysquid:S1141Ö"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8õùÓ¤.
+hsquid:CommentedOutCodeLineÙ"<This block of commented-out lines of code should be removed.(ÀÂøŒÿÿÿÿÿ
+@squid:S1481:")Remove this unused "SSN1" local variable.(Ã–Ò
+Tsquid:S1854E"8Remove this useless assignment to local variable "wait".(ëÁ‰¿úÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+tsquid:S00117®"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¥¥şÿÿÿÿ
+Esquid:S1481;")Remove this unused "SSN2" local variable.(ü¶„Îşÿÿÿÿ
+Osquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(ı½ÓÓüÿÿÿÿ
+osquid:S00117¡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+csquid:CommentedOutCodeLineß"<This block of commented-out lines of code should be removed.(½Åğ”
+csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(›öê«
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á³£›
+bsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(š¾ê¦
+csquid:CommentedOutCodeLine½"<This block of commented-out lines of code should be removed.(È™ÛÅ
+Wsquid:S18544"9Remove this useless assignment to local variable "state".(¢çÊ8ƒÏÃÒ¤.
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ÑÉ„‚ûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓÛîè
+j
+squid:S134–"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(˜—±Ìşÿÿÿÿ
+csquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(š¾ê¦
+csquid:CommentedOutCodeLine™"<This block of commented-out lines of code should be removed.(Ñ¹Íî
+hsquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(º‰á†ıÿÿÿÿ
+msquid:S1132£"PMove the "DEBIT CARD" string literal on the left side of this string comparison.(ä·µ©ÿÿÿÿÿ
+osquid:S00117°"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+nsquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(Ñ¿µúÿÿÿÿ8¿¦ÆÒ¤.
+q
+squid:S134È"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8“ø¥Ò¤.
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(„ô¬øÿÿÿÿ
+Fsquid:S1481±")Remove this unused "SSN2" local variable.(ü¶„Îşÿÿÿÿ
+Asquid:S1481°")Remove this unused "SSN1" local variable.(Ã–Ò
+Tsquid:S1854<"8Remove this useless assignment to local variable "SSN3".(İøúÇıÿÿÿÿ
+hsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(çâ¿¸ıÿÿÿÿ
+csquid:S1192*"LDefine a constant instead of duplicating this literal "OnlineLogin" 4 times.(Ş§¯Ñ
+nsquid:S00117:"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã–Ò
+osquid:S00117«"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÅ×Œ
+isquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(ˆÈ‰˜8·­´Ò¤.
+q
+squid:S134Ö"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(¡»¢üùÿÿÿÿ8õùÓ¤.
+^squid:UselessImportCheck":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ

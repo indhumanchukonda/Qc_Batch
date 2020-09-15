@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="States"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="QCHome.CSR">
+        <methods>
+          <include name="getResult"/>
+          <include name="NewLoanVeritec"/>
+          <include name="endReport"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- QCHome.CSR -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

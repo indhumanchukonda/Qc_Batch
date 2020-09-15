@@ -1,0 +1,25 @@
+
+Jsquid:UselessParenthesesCheck"!Remove those useless parentheses.(±­ò
+o
+squid:S135>"YReduce the total number of break and continue statements in this loop to use at most one.(À”ÈÄ
+i
+squid:S134#"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(äŞÆÿÿÿÿÿ
+d
+squid:S134>"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(À”ÈÄ
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(·¢Æõşÿÿÿÿ
+Q
+squid:S106";Replace this usage of System.out or System.err by a logger.(²¿¹İ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÏÙÛóÿÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙÛóÿÿÿÿÿ
+Isquid:S1172"-Remove this unused method parameter "AppURL".(ÏÙÛóÿÿÿÿÿ
+<squid:S1166g"%Either log or rethrow this exception.(”ı¾
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙÛóÿÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙÛóÿÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ïñ©
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê ÚÆúÿÿÿÿ
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¢ŞÔıÿÿÿÿ
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àì¹¹
+nsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä€ÒÜ
+ssquid:S00117@"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÍã„øÿÿÿÿ
+?squid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

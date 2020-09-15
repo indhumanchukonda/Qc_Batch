@@ -1,0 +1,88 @@
+
+Fsquid:S1481"*Remove this unused "stmt2" local variable.(îÐ«˜ùÿÿÿÿ
+Ssquid:S1854L"<Remove this useless assignment to local variable "statusId".(¨„ò¾
+Rsquid:S1141Ï"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Bsquid:S00108Ñ")Either remove or fill this block of code.(”ý¾
+nsquid:S001176"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áþ ½
+<squid:S1166i"%Either log or rethrow this exception.(”ý¾
+Zsquid:S1854‡"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+[squid:S2583Ç"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+gsquid:S2077:"P"schedule_id" is provided externally to the method and not sanitized before use.(¿ûñ
+isquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ØÈÌ©8ŽÙÛû¦.
+Rsquid:S1141Ö"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+[squid:S2583Õ"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Xsquid:S1854¶";Remove this useless assignment to local variable "status1".(‘»¾¤øÿÿÿÿ
+Bsquid:S00108Ø")Either remove or fill this block of code.(”ý¾
+@squid:S1148˜"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+.squid:S2095:"Close this "ResultSet".(¿ûñ
+nsquid:S2077¥"Q"schedule_id1" is provided externally to the method and not sanitized before use.(¯Ä¸Çûÿÿÿÿ
+bsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(²ÈÊ±
+Ysquid:S1854"=Remove this useless assignment to local variable "resultSet".(›÷Œœúÿÿÿÿ
+Vsquid:S1854ž"9Remove this useless assignment to local variable "stmt2".(Ùýôºøÿÿÿÿ
+Osquid:S1313‘"2Make this IP "192.168.2.241" address configurable.(¼”‚Ëùÿÿÿÿ
+csquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(²ÈÊ±
+<squid:S1166b"%Either log or rethrow this exception.(”ý¾
+<squid:S1166p"%Either log or rethrow this exception.(”ý¾
+nsquid:S2077«"Q"schedule_id1" is provided externally to the method and not sanitized before use.(õÎ©‰üÿÿÿÿ
+Rsquid:S1141È"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+W
+squid:S106Þ";Replace this usage of System.out or System.err by a logger.(à×³µþÿÿÿÿ
+Wsquid:S2259"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+@squid:S1148ß"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+Usquid:S1854"9Remove this useless assignment to local variable "stmt2".(îÐ«˜ùÿÿÿÿ
+gsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¨¬ÊŽùÿÿÿÿ
+gsquid:S2077A"P"schedule_id" is provided externally to the method and not sanitized before use.(¿µûö
+Qsquid:S1141g"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+R
+squid:S106—";Replace this usage of System.out or System.err by a logger.(£„ä«
+Xsquid:UselessImportCheck"4Remove this unused import 'oracle.jdbc.OracleTypes'.(üûÊð
+R
+squid:S106§";Replace this usage of System.out or System.err by a logger.(ýË³›
+;squid:S2095("Close this "Connection".(¼”‚Ëùÿÿÿÿ8ŽÙÛû¦.
+.squid:S2095A"Close this "ResultSet".(¿µûö
+W
+squid:S106Á";Replace this usage of System.out or System.err by a logger.(îÍÁÌýÿÿÿÿ
+.squid:S20953"Close this "Statement".(Êë‹
+Ysquid:S1854M"=Remove this useless assignment to local variable "statusId1".(â›²Þûÿÿÿÿ
+Asquid:S00108i")Either remove or fill this block of code.(”ý¾
+/squid:S2095"Close this "Statement".(Êë‹
+=squid:S1166Ñ"%Either log or rethrow this exception.(”ý¾
+V
+squid:S106v";Replace this usage of System.out or System.err by a logger.(à×³µþÿÿÿÿ
+Vsquid:S22593"?NullPointerException might be thrown as 'conn' is nullable here(Êë‹
+[squid:S2583Î"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+Usquid:S18544"9Remove this useless assignment to local variable "stmt2".(Ùýôºøÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.sql.CallableStatement'.(†ÍÉ©
+Osquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+–squid:S1160|"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(ØÐÃÕ
+Q
+squid:S106-";Replace this usage of System.out or System.err by a logger.(£„ä«
+4squid:S2095¥"Close this "ResultSet".(¯Ä¸Çûÿÿÿÿ
+Qsquid:S1141`"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+4squid:S2095«"Close this "ResultSet".(õÎ©‰üÿÿÿÿ
+Qsquid:S1141n"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+=squid:S1166Ø"%Either log or rethrow this exception.(”ý¾
+Q
+squid:S106<";Replace this usage of System.out or System.err by a logger.(ýË³›
+?squid:S1148."#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+–squid:S1160"Refactor this method to throw at most one checked exception instead of: java.lang.ClassNotFoundException, java.sql.SQLException(´æÑæ
+Zsquid:S2583m"CChange this condition so that it does not always evaluate to "true"(¡ææú
+Asquid:S00108b")Either remove or fill this block of code.(”ý¾
+=squid:S1166Ê"%Either log or rethrow this exception.(”ý¾
+osquid:S00117¡"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÉ—¶
+Asquid:S00108p")Either remove or fill this block of code.(”ý¾
+Rsquid:S1854µ":Remove this useless assignment to local variable "status".(à–Ò
+Zsquid:S2583_"CChange this condition so that it does not always evaluate to "true"(ŒÖÄî
+?squid:S1148w"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ
+4squid:S2095ž"Close this "Statement".(Ùýôºøÿÿÿÿ
+V
+squid:S106X";Replace this usage of System.out or System.err by a logger.(îÍÁÌýÿÿÿÿ
+Gsquid:S1481‚"*Remove this unused "stmt2" local variable.(îÐ«˜ùÿÿÿÿ
+Bsquid:S00108Ê")Either remove or fill this block of code.(”ý¾
+Zsquid:S2583f"CChange this condition so that it does not always evaluate to "true"(±”Ìï
+Vsquid:S1854‚"9Remove this useless assignment to local variable "stmt2".(îÐ«˜ùÿÿÿÿ
+Nsquid:S1313("2Make this IP "192.168.2.241" address configurable.(¼”‚Ëùÿÿÿÿ
+3squid:S20954"Close this "Statement".(Ùýôºøÿÿÿÿ
+Psquid:S1854"8Remove this useless assignment to local variable "stmt".(–ÔÀ¡
+<squid:S2095‘"Close this "Connection".(¼”‚Ëùÿÿÿÿ8ØÉ™Å§.
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Å‘¥Œ8ØÉ™Å§.
